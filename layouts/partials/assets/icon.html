@@ -1,0 +1,22 @@
+{{/* Lấy giá trị icon từ dict được truyền vào */}}
+{{ $icon := .icon }}
+{{/* Phân tách chuỗi icon thành các phần: family, iconName, class */}}
+{{ $parts := split $icon " " }}
+{{ $family := index $parts 0 }} <!-- fas, fab, hoặc fa -->
+{{ $iconName := index $parts 1 }} <!-- Tên icon, ví dụ: link -->
+{{ $class := index $parts 2 | default "" }} <!-- Class bổ sung, ví dụ: anchor -->
+
+{{/* Xử lý logic hiển thị icon */}}
+{{ if or (eq $family "fas") (eq $family "fab") (eq $family "fa") }}
+  {{ $svgPath := printf "assets/svgs/fontawesome/%s/%s.svg" (cond (eq $family "fas") "solid" (cond (eq $family "fab") "brands" "regular")) $iconName }}
+  {{ if fileExists $svgPath }}
+    <span class="icon {{ $class }}">
+      {{ readFile $svgPath | safeHTML }}
+    </span>
+  {{ else }}
+    {{ warnf "Icon '%s' không tìm thấy trong %s" $iconName $svgPath }}
+    <span class="missing-icon">[Icon thiếu: {{ $iconName }}]</span>
+  {{ end }}
+{{ else }}
+  {{ errorf "Family icon '%s' không được hỗ trợ trong file %s" $family .Page.File.Path }}
+{{ end }}

@@ -1,0 +1,8 @@
+{{ $text := chomp .Text }}
+{{ if site.Params.main.titleCase }}{{ $text = title $text }}{{ end }}
+
+{{ if eq page.RelPermalink "/en/privacy/" }}
+    {{ warnf "title: %s" (.Text | safeHTML) }}
+{{ end }}
+
+<h{{ .Level }} id="{{ .Anchor | safeURL }}">{{ $text | safeHTML }}</h{{ .Level }}>

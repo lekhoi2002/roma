@@ -1,0 +1,161 @@
+{{/*
+  Enhanced Image Gallery shortcode using GLightbox for Hinode (Hugo + Bootstrap 5).
+  Supports loading from EITHER:
+
+  1. Data file (data/galleries/{folder}.yaml|.json|.toml) - PRIORITIZED.
+     Ideal for external hosting.
+     Example `data/galleries/my-external-album.yaml`:
+     ```yaml
+     images:
+       - src: "https://external.host/image1.jpg"
+         thumbnail_src: "https://external.host/thumb1.jpg" # Optional, defaults to src
+         alt: "Alt text for image 1"
+         caption: "Caption for image 1"
+       - src: "https://external.host/image2.jpg"
+         alt: "Alt text for image 2"
+         caption: "Caption for image 2"
+     ```
+
+  2. Assets folder (assets/img/{folder}/) - Fallback if data file not found.
+
+  Usage example in markdown:
+  Use the shortcode like {{ "< glightbox \"gallery-name\" >" }}
+  or {{ "< glightbox \"gallery-name\" number-of-columns >" }}
+  Example 1: {{ "< glightbox \"my-assets-gallery\" 3 >" }} (3 columns, loads from assets)
+  Example 2: {{ "< glightbox \"my-external-album\" 2 >" }} (2 columns, loads from data)
+  (Note: Inside this comment, delimiters < > are used for illustration only)
+*/}}
+
+{{ .Page.Scratch.Set "glightbox" true }} {{/* Ensure GLightbox JS/CSS are loaded */}}
+
+{{ $folder := .Get 0 }}
+{{ $columns := 2 }} {{/* Default columns */}}
+{{ with .Get 1 }}{{ $columns = . }}{{ end }}
+{{ $colWidth := div 12 $columns }}
+{{ $colClass := printf "col-12 col-md-%d mb-3" $colWidth }} {{/* Use mb-3 for better spacing */}}
+
+{{ if not $folder }}
+  {{/* --- Display error directly using HTML Alert --- */}}
+  <p class="alert alert-danger" role="alert">
+    Error: GLightbox shortcode requires a folder/gallery name. Example: <code>{{ "< glightbox \"my-gallery\" >" }}</code>
+  </p>
+{{ else }}
+
+  {{/* --- Attempt 1: Load from Data File --- */}}
+  {{ $galleryData := index site.Data.galleries $folder }}
+
+  {{ if $galleryData }}
+    {{/* Data file exists, use this */}}
+    {{ if $galleryData.images }}
+      <div class="row g-3 glightbox-gallery" data-gallery-id="{{ $folder }}">
+        {{ range $imgData := $galleryData.images }}
+          <div class="{{ $colClass }}">
+            <a href="{{ $imgData.src }}"
+               class="glightbox d-block position-relative shadow-sm"
+               data-gallery="{{ $folder }}"
+               data-description="{{ $imgData.caption | default ($imgData.alt | default "") }}" {{/* Use caption or alt */}}
+               data-type="image">
+              <div class="ratio ratio-4x3 bg-light rounded overflow-hidden"> {{/* Added bg-light and rounded */}}
+                <img src="{{ $imgData.thumbnail_src | default $imgData.src }}" {{/* Use thumbnail_src or src */}}
+                     alt="{{ $imgData.alt | default "" }}"
+                     class="img-fluid object-fit-cover w-100 h-100"
+                     loading="lazy">
+              </div>
+            </a>
+          </div>
+        {{ end }}
+      </div>
+    {{ else }}
+      {{/* --- Display warning directly using HTML Alert --- */}}
+      <p class="alert alert-warning" role="alert">
+        Data file found for gallery '{{ $folder }}' (<code>data/galleries/{{ $folder }}.*</code>), but it does not contain an 'images' list or the list is empty.
+      </p>
+    {{ end }}
+
+  {{ else }}
+    {{/* --- Attempt 2: Fallback to Assets Folder --- */}}
+    {{ $assetPath := printf "img/%s/*" $folder }}
+    {{ $files := resources.Match $assetPath }}
+
+    {{ if $files }}
+      {{/* Filter only image files */}}
+      {{ $images := slice }}
+      {{ range $file := $files }}
+        {{ $ext := path.Ext $file.Name | lower }}
+        {{ if or (eq $ext ".jpg") (eq $ext ".jpeg") (eq $ext ".png") (eq $ext ".webp") (eq $ext ".gif") }}
+          {{ $images = $images | append $file }}
+        {{ end }}
+      {{ end }}
+
+      {{ if $images }}
+        {{/* Try to read album.txt if it exists within the assets subfolder */}}
+        {{ $albumFile := resources.Get (printf "img/%s/album.txt" $folder) }}
+        {{ $albumData := dict }}
+        {{ if $albumFile }}
+          {{ range $line := split $albumFile.Content "\n" }}
+            {{ $parts := split $line "|" }}
+            {{ if ge (len $parts) 2 }}
+              {{ $filename := trim (index $parts 0) " " }}
+              {{ $caption := trim (index $parts 1) " " }}
+              {{ $albumData = merge $albumData (dict $filename $caption) }}
+            {{ end }}
+          {{ end }}
+        {{ end }}
+
+        <div class="row g-3 glightbox-gallery" data-gallery-id="{{ $folder }}">
+          {{ range $img := $images }}
+            {{ $imgBaseName := path.Base $img.Name }}
+            {{ $nameNoExt := replace $imgBaseName (path.Ext $imgBaseName) "" }}
+
+            {{/* Determine alt and caption based on priority: album.txt -> EXIF -> filename */}}
+            {{ $altText := $nameNoExt }}
+            {{ $caption := "" }}
+
+            {{/* 1. Check album.txt data */}}
+            {{ with index $albumData $nameNoExt }}
+              {{ $altText = . }}
+              {{ $caption = . }}
+            {{ else }}
+              {{/* 2. Check if it's an image and has EXIF data (Only if no album.txt entry) */}}
+              {{ if $img.MediaType.MainType | eq "image" }}
+                {{ with $img.Exif }}
+                  {{ with .Tags.ImageDescription }}
+                    {{ $altText = . }}
+                    {{ $caption = . }}
+                  {{ end }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+            {{ $description := $caption | default $altText }}
+
+
+            <div class="{{ $colClass }}">
+              <a href="{{ $img.RelPermalink }}"
+                 class="glightbox d-block position-relative shadow-sm"
+                 data-gallery="{{ $folder }}"
+                 data-description="{{ $description }}"
+                 data-type="image">
+                <div class="ratio ratio-4x3 bg-light rounded overflow-hidden">
+                  <img src="{{ $img.RelPermalink }}"
+                       alt="{{ $altText }}"
+                       class="img-fluid object-fit-cover w-100 h-100"
+                       loading="lazy">
+                </div>
+              </a>
+            </div>
+          {{ end }}
+        </div>
+      {{ else }}
+        {{/* --- Display warning directly using HTML Alert --- */}}
+        <p class="alert alert-warning" role="alert">
+           No valid image files (.jpg, .png, .webp, .gif) found in folder <code>assets/img/{{ $folder }}/</code>.
+        </p>
+      {{ end }}
+    {{ else }}
+       {{/* --- Display info directly using HTML Alert --- */}}
+       <p class="alert alert-info" role="alert">
+         No data file found for gallery '{{ $folder }}' (<code>data/galleries/{{ $folder }}.*</code>) and no corresponding folder found in <code>assets/img/</code>.
+       </p>
+    {{ end }}
+  {{ end }} {{/* End check for $galleryData */}}
+{{ end }} {{/* End check for $folder */}}

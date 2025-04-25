@@ -1,0 +1,10 @@
+{{ $text := chomp .Text }}
+{{ if site.Params.main.titleCase }}{{ $text = (title ($text | htmlUnescape)) | htmlEscape }}{{ end }}
+
+{{ if and site.Params.navigation.anchor $text }}
+<h{{ .Level }} id="{{ .Anchor | safeURL }}" class="heading">
+    {{- $text | safeHTML -}}
+</h{{ .Level }}>
+{{ else }}
+<h{{ .Level }} id="{{ .Anchor | safeURL }}">{{ $text | safeHTML }}</h{{ .Level }}>
+{{ end }}

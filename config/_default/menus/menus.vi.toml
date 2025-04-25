@@ -1,0 +1,212 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "Nội thất"
+  pageRef = "/noi-that/"
+  weight = 20
+
+[[main]]
+  name = "Sàn Xương Cá"
+  pageRef = "#"
+  weight = 30
+
+[[main]]
+  name = "Sàn Nhựa"
+  pageRef = "#"
+  weight = 40
+
+[[main]]
+  name = "Chủng Loại"
+  weight = 50
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Gỗ Đức"
+  pageRef = "#"
+  weight = 51
+
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Malaysia"
+  pageRef = "#"
+  weight = 52
+
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Thái Lan"
+  pageRef = "#"
+  weight = 53
+
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Việt Nam"
+  pageRef = "#"
+  weight = 54
+  
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Gỗ Chịu Nước"
+  pageRef = "#"
+  weight = 55
+
+[[main]]
+  parent = "Chủng Loại"
+  name = "Sàn Gỗ Giá Rẻ"
+  pageRef = "#"
+  weight = 56
+
+[[main]]
+  name = "Phụ Kiện"
+  pageRef = "#"
+  weight = 60
+
+[[main]]
+  name = "Tư Vấn"
+  pageRef = "#"
+  weight = 70
+
+[[main]]
+  name = "Dự Án"
+  pageRef = "#"
+  weight = 80
+
+[[main]]
+  name = "Liên Hệ"
+  pageRef = "/lien-he/"
+  weight = 90
+
+[[social]]
+  name = "LinkedIn"
+  pre = "fab linkedin"
+  url = "https://linkedin.com"
+  weight = 10
+
+[[social]]
+  name = "X"
+  pre = "fab fa-square-x-twitter"
+  url = "https://x.com/khovansango"
+  weight = 30
+[[social]]
+  name = "Pinterest"
+  pre = "fab fa-pinterest"
+  url = "https://www.pinterest.com/khovansangocom/"
+  weight = 40
+
+[[social]]
+  name = "Facebook"
+  pre = "fab fa-facebook"
+  url = "https://www.facebook.com/khovansangonhapkhau/"
+  weight = 50
+
+[[social]]
+  name = "Instagram"
+  pre = "fab fa-instagram"
+  url = "https://www.instagram.com/khosangonhapkhau"
+  weight = 60
+
+[[social]]
+  name = "TikTok"
+  pre = "fab fa-tiktok"
+  url = "https://tiktok.com"
+  weight = 70
+
+[[footer]]
+  name = "Menu"
+  weight = 10
+
+[[footer]]
+  parent = "Menu"
+  name = "Home"
+  pageRef = "/"
+  weight = 11
+
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Xương Cá"
+  pageRef = "#"
+  weight = 13
+
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Đức"
+  pageRef = "#"
+  weight = 14
+
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Chịu Nước"
+  pageRef = "#"
+  weight = 15
+ 
+[[footer]]
+  parent = "Menu"
+  name = "Sàn Giá Rẻ"
+  pageRef = "#"
+  weight = 16
+
+[[footer]]
+  name = "Links"
+  weight = 20
+  
+[[footer]]
+  parent = "Links"
+  name = "Khuyến Mãi"
+  pageRef = "#"
+
+[[footer]]
+  parent = "Links"
+  name = "Tư Vấn"
+  pageRef = "#"
+ 
+[[footer]]
+  parent = "Links"
+  name = "Nhà Đẹp"
+  pageRef = "#"
+  
+[[footer]]
+  parent = "Links"
+  name = "Tuyển Dụng"
+  pageRef = "#"
+
+
+[[footer]]
+  name = "Chính Sách"
+  weight = 30
+
+  [[footer]]
+  parent = "Chính Sách"
+  name = "Bảo Mật"
+  url = "chinh-sach/chinh-sach-bao-mat"
+  weight = 31
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Thanh Toán"
+  url = "chinh-sach/chinh-sach-thanh-toan"
+  weight = 32
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Vận Chuyển"
+  url = "chinh-sach/chinh-sach-van-chuyen"
+  weight = 33
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Bảo Hành"
+  url = "chinh-sach/chinh-sach-bao-hanh"
+  weight = 34
+
+[[footer]]
+  parent = "Chính Sách"
+  name = "Đổi Trả"
+  pageRef = "chinh-sach/chinh-sach-doi-tra"
+  weight = 35
+
+  [[footer]]
+  parent = "Chính Sách"
+  name = "Bảo Mật"
+  url = "chinh-sach/chinh-sach-dai-ly"
+  weight = 31

@@ -1,0 +1,115 @@
+{{/* Path: layouts/noi-that/single.html (Đã loại bỏ Sidebar và thêm Related Posts) */}}
+{{ define "main" -}}
+    {{- $breakpoint := $.Scratch.Get "breakpoint" -}} {{/* Vẫn giữ biến breakpoint để dùng cho mobile TOC nếu cần */}}
+    {{- $hasSidebar := .Site.Params.navigation.sidebar | default true -}}
+    {{ $sidebar := "" }}
+    {{/* Vẫn render sidebar để dùng cho Offcanvas nếu có */}}
+    {{ if $hasSidebar }}{{ $sidebar = .Render "single/sidebar" }}{{ end }}
+    {{/* $toc không còn được dùng trong layout chính này nữa */}}
+    {{/* $toc := .Render "single/panel-toc" */}} {{/* Không cần render TOC desktop nữa */}}
+
+    {{/* Offcanvas Sidebar (Giữ nguyên từ theme Hinode - hoạt động độc lập) */}}
+    {{ with $sidebar }}
+        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvass-sidebar" aria-labelledby="offcanvas-label">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvas-label">{{ strings.FirstUpper $.Section }}</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="{{ T "close" }}"></button>
+            </div>
+            <div class="offcanvas-body">
+                {{ . | safeHTML }}
+            </div>
+        </div>
+    {{ end }}
+
+    {{/* Container có thể là container-xxl hoặc container-fluid tùy bạn chọn */}}
+    <div class="container-xxl flex-fill p-2 px-xxl-0">
+        <div class="row">
+            {{/* --- CỘT NỘI DUNG CHÍNH (Giờ chiếm toàn bộ chiều rộng) --- */}}
+            {{/* Thay col-lg-9 thành col-lg-12 */}}
+            <div class="col-12 col-lg-12 mb-4 p-3"> {{/* <-- THAY ĐỔI Ở ĐÂY */}}
+
+                {{/* 1. Breadcrumbs (Điều hướng) */}}
+                {{ if .Site.Params.navigation.breadcrumb }}{{ partial "assets/breadcrumb.html" (dict "page" .) }}{{ end }}
+
+                {{/* 2. Header (Tiêu đề, ngày đăng, tags, mô tả ngắn) */}}
+                {{ .Render "single/header" }}
+
+                {{/* 3. Mobile TOC Dropdown (Mục lục cho di động - Vẫn giữ lại) */}}
+                {{- $includeToc := and .Site.Params.navigation.toc (or .Params.includeToc (ne .Params.includeToc false)) -}}
+                {{- if $includeToc -}}
+                    <div class="d-{{ $breakpoint.current }}-none pb-3">{{ partial "assets/toc-dropdown.html" (dict "page" .) }}</div>
+                {{- end -}}
+
+                {{/* --- 4. LAYOUT 2 CỘT TÙY CHỈNH (Ảnh + Meta Box) --- */}}
+                <div class="row mb-4 align-items-start"> {{/* <-- Thêm align-items-start nếu cần */}}
+                    {{/* Cột Ảnh Thumbnail */}}
+                    <div class="col-lg-7 mb-3 mb-lg-0">
+                        {{ with .Params.thumbnail }}
+                            {{ $image := "" }}
+                            {{ $src := . }}
+                            {{ if not (urls.Parse $src).Scheme }}
+                                {{ $original := resources.Get $src }}
+                                {{ if $original }}
+                                     {{ $image = $original.Resize "800x" }}
+                                {{ else }}
+                                     {{ warnf "Ảnh thumbnail '%s' không tìm thấy trong trang: %s" $src $.File.Path }}
+                                {{ end }}
+                            {{ else }}
+                                {{ $image = $src }}
+                            {{ end }}
+
+                            {{ if $image }}
+                                <img src="{{ if reflect.IsMap $image }}{{ $image.RelPermalink }}{{ else }}{{ $image }}{{ end }}"
+                                     {{ if reflect.IsMap $image }} width="{{ $image.Width }}" height="{{ $image.Height }}" {{ end }}
+                                     class="img-fluid rounded shadow-sm"
+                                     alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ printf "%s - Ảnh đại diện" $.Title }}{{ end }}">
+                             {{ end }}
+                        {{ else }}
+                            <div class="bg-light border rounded d-flex align-items-center justify-content-center text-muted" style="min-height: 300px; aspect-ratio: 4/3;">
+                                <span>Không có ảnh đại diện</span>
+                            </div>
+                        {{ end }}
+                    </div>
+                    {{/* Cột Meta Box */}}
+                    <div class="col-lg-5">
+                        {{ partial "meta-box.html" . }}
+                    </div>
+                </div>
+                {{/* --- KẾT THÚC LAYOUT 2 CỘT --- */}}
+
+                {{/* Đường kẻ ngang phân cách */}}
+                <hr class="my-4"/>
+
+                {{/* 5. Nội dung chính của bài viết */}}
+                <article class="article-content">
+                    {{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) | safeHTML }}
+                </article>
+
+                {{/* 6. Hiển thị Series (nếu có) */}}
+                {{ if .Params.series }}
+                <div class="series-container mt-5">
+                    {{ partial "series/series.html" . }}
+                </div>
+                {{ end }}
+
+                {{/* --- 7. BÀI VIẾT LIÊN QUAN (ĐÃ CHÈN) --- */}}
+                {{ partial "noi-that/related-posts.html" . }}
+                {{/* --- KẾT THÚC BÀI VIẾT LIÊN QUAN --- */}}
+
+                {{/* 8. Footer (Link bài trước/sau) */}}
+                {{ .Render "single/footer" }}
+
+            </div>
+            {{/* --- KẾT THÚC CỘT NỘI DUNG CHÍNH --- */}}
+
+
+            {{/* --- CỘT 2: TOC và Sidebar (ĐÃ BỊ XÓA BỎ HOÀN TOÀN) --- */}}
+            {{/*
+            <div class="col-12 col-{{ $breakpoint.current }}-3">
+                 ... nội dung cũ của sidebar và TOC desktop ...
+            </div>
+            */}}
+
+        </div> {{/* Đóng div.row chính */}}
+    </div> {{/* Đóng div.container-* */}}
+{{ end -}}

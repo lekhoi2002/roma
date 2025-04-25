@@ -1,0 +1,132 @@
+{{/*
+    Partials/noi-that/related-posts.html
+    Hiển thị các bài viết liên quan trong cùng thư mục (section).
+    Ưu tiên hiển thị các bài có 'weight' trong front matter (số nhỏ trước).
+    Các bài không có 'weight' sẽ hiển thị sau, sắp xếp theo ngày mới nhất.
+  */}}
+  
+{{ $limit := 3 }} {{/* Giới hạn số bài viết liên quan cần hiển thị */}}
+{{ $currentPagePermalink := .Permalink }}
+{{ $relatedPosts := slice }} {{/* Slice cuối cùng để hiển thị */}}
+
+{{/*
+  1. Tìm tất cả các trang thông thường trong cùng section, loại trừ trang hiện tại
+*/}}
+{{ $pagesInSameSection := where .Site.RegularPages "Section" .Section }}
+{{ $potentialRelatedAll := where $pagesInSameSection ".Permalink" "!=" $currentPagePermalink }}
+
+{{/*
+  2. Tách thành 2 nhóm: có weight và không có weight
+*/}}
+{{ $weightedPages := slice }}
+{{ $unweightedPages := slice }}
+
+{{ range $page := $potentialRelatedAll }}
+  {{ if isset $page.Params "weight" }}
+    {{ $weight := $page.Params.weight }}
+    {{ $validWeight := false }}
+    
+    {{/* Kiểm tra weight có phải số không bằng cách an toàn */}}
+    {{ if eq (printf "%T" $weight) "int" }}
+      {{ $validWeight = true }}
+    {{ else if eq (printf "%T" $weight) "float64" }}
+      {{ $validWeight = true }}
+    {{ else if eq (printf "%T" $weight) "string" }}
+      {{/* Cố gắng chuyển đổi chuỗi thành số */}}
+      {{ $weightNum := 0 }}
+      {{ if eq $weight "0" }}
+        {{ $validWeight = true }}
+      {{ else }}
+        {{ $error := false }}
+        {{ $weightNum = int $weight | default 0 }}
+        {{ if ne (printf "%v" $weightNum) "0" }}
+          {{ $validWeight = true }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    
+    {{/* Phân loại trang dựa trên weight */}}
+    {{ if $validWeight }}
+      {{ $weightedPages = $weightedPages | append $page }}
+    {{ else }}
+      {{ warnf "Related Posts: Page '%s' has a non-numeric weight value. Treating as unweighted." $page.File.Path }}
+      {{ $unweightedPages = $unweightedPages | append $page }}
+    {{ end }}
+  {{ else }}
+    {{ $unweightedPages = $unweightedPages | append $page }}
+  {{ end }}
+{{ end }}
+
+{{/*
+  3. Sắp xếp từng nhóm:
+     - Nhóm có weight: Sắp xếp theo weight tăng dần (số nhỏ trước)
+     - Nhóm không có weight: Sắp xếp theo ngày giảm dần (mới nhất trước)
+*/}}
+{{ $sortedWeighted := sort $weightedPages ".Params.weight" }}
+{{ $sortedUnweighted := sort $unweightedPages ".Date" "desc" }}
+
+{{/*
+  4. Kết hợp 2 danh sách đã sắp xếp (weighted ưu tiên đứng trước)
+*/}}
+{{ $combinedSorted := $sortedWeighted | append $sortedUnweighted }}
+
+{{/*
+  5. Lấy $limit bài đầu tiên từ danh sách kết hợp
+*/}}
+{{ $relatedPosts = first $limit $combinedSorted }}
+
+
+{{/* --- PHẦN HIỂN THỊ CÁC BÀI LIÊN QUAN --- */}}
+
+{{/* Chỉ hiển thị nếu có bài viết liên quan */}}
+{{ if $relatedPosts }}
+<div class="related-posts-section mt-5 pt-4 border-top">
+  <h3 class="mb-4 text-center">Sản phẩm liên quan</h3>
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    {{ range $relatedPosts }}
+      <div class="col">
+        <div class="card h-100 shadow-sm related-post-card">
+          {{ $permalink := .RelPermalink }}
+          {{ $title := .Title }}
+          {{ $thumbnail := .Params.thumbnail }}
+
+          {{/* Xử lý Thumbnail */}}
+          {{ $image := "" }}
+          {{ if $thumbnail }}
+            {{ $src := $thumbnail }}
+            {{ if not (urls.Parse $src).Scheme }}
+              {{ $original := resources.Get $src }}
+              {{ if $original }}
+                {{ $image = $original.Fill "400x300" }}
+              {{ end }}
+            {{ else }}
+              {{ $image = $src }} {{/* Ảnh từ link ngoài */}}
+            {{ end }}
+          {{ end }}
+
+          {{/* Link bao quanh ảnh */}}
+          <a href="{{ $permalink }}" title="{{ $title }}">
+            {{ if $image }}
+              <img src="{{ if reflect.IsMap $image }}{{ $image.RelPermalink }}{{ else }}{{ $image }}{{ end }}"
+                   class="card-img-top"
+                   alt="{{ with .Params.image_alt }}{{ . }}{{ else }}{{ printf "%s - Ảnh liên quan" $title }}{{ end }}"
+                   loading="lazy">
+            {{ else }}
+              <div class="card-img-top bg-light d-flex align-items-center justify-content-center text-muted" style="height: 225px; font-size: 0.9rem;">
+                 <span>Ảnh đại diện</span>
+              </div>
+            {{ end }}
+          </a>
+
+          {{/* Phần Tiêu đề */}}
+          <div class="card-body text-center">
+            <h5 class="card-title related-title mb-0">
+              <a href="{{ $permalink }}" class="text-decoration-none stretched-link">{{ $title }}</a>
+            </h5>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

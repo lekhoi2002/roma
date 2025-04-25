@@ -1,0 +1,132 @@
+<!-- TODO: replace scratch with dict -->
+
+<!-- Adapted from doks -->
+{{/* Sử dụng title_seo nếu có, nếu không thì dùng title thông thường */}}
+{{ with .Params.title_seo }}
+    {{ $title := . }}
+    {{ if $.Site.Params.main.titleCase }}{{ $title = title $title }}{{ end }} {{/* Thay đổi: .Site -> $.Site */}}
+    {{ $.Scratch.Set "title" $title -}}
+{{ else }}
+    {{ $title := .Title | default $.Site.Title }} {{/* Thay đổi: .Site -> $.Site */}}
+    {{ if $.Site.Params.main.titleCase }}{{ $title = title $title }}{{ end }} {{/* Thay đổi: .Site -> $.Site */}}
+    {{ $.Scratch.Set "title" $title -}}
+{{ end }}
+
+{{/* Sử dụng description_seo nếu có, nếu không thì dùng description thông thường, cuối cùng là site default */}}
+{{ $description := .Params.description_seo | default (.Description | default $.Site.Params.main.description) }} {{/* Thay đổi: .Site -> $.Site */}}
+{{/* Giới hạn độ dài description */}}
+{{ if gt (strings.RuneCount $description) 150 }}
+    {{ $description = print (substr $description 0 150) "..." }}
+{{ end }}
+{{ $.Scratch.Set "description" $description -}}
+
+{{- $thumbnail := "" -}}
+{{ if reflect.IsMap .Params.Thumbnail }}{{ $thumbnail = .Params.Thumbnail.url }}{{ else }}{{ $thumbnail = .Params.Thumbnail }}{{ end }}
+
+{{ if $thumbnail -}}
+    {{/* Cố gắng lấy kích thước ảnh để tạo URL tối ưu cho SEO, fallback nếu không được */}}
+    {{ $imgResource := "" }}
+    {{ if not (urls.Parse $thumbnail).Scheme }}
+        {{ $imgResource = resources.Get $thumbnail }}
+    {{ end }}
+
+    {{ $targetWidth := 1280 }}
+    {{ $targetHeight := 640 }}
+    {{ $imgURL := "" }}
+
+    {{ if $imgResource }}
+        {{/* Resize ảnh nếu là resource cục bộ */}}
+        {{ $resized := $imgResource.Fill (printf "%dx%d" $targetWidth $targetHeight) }}
+        {{ $imgURL = $resized.Permalink }}
+    {{ else }}
+        {{/* Giữ nguyên URL nếu là ảnh ngoài hoặc không tìm thấy resource */}}
+        {{/* Lưu ý: Ảnh ngoài có thể không được tối ưu kích thước cho OG */}}
+         {{ $imgURL = $thumbnail }}
+         {{/* Thêm cảnh báo nếu là ảnh ngoài và không có kích thước chuẩn */}}
+         {{ if (urls.Parse $thumbnail).Scheme }}
+             {{/* warnf "SEO Thumbnail: Using external image URL '%s'. Ensure it meets OpenGraph size recommendations (e.g., 1200x630)." $thumbnail */}}
+         {{ else }}
+             {{ warnf "SEO Thumbnail: Resource '%s' not found for page '%s'. Using original path." $thumbnail .File.Path }}
+         {{ end }}
+    {{ end }}
+    {{ $.Scratch.Set "thumbnail" ($imgURL | absURL) -}}
+{{ else -}}
+    {{/* Fallback nếu không có thumbnail trong front matter */}}
+    {{ with $.Site.Params.schema.image.url -}} {{/* Thay đổi: .Site -> $.Site */}}
+        {{ $.Scratch.Set "thumbnail" (. | absURL) -}}
+    {{ else -}}
+        {{ $images := $.Resources.ByType "image" -}}
+        {{ $featured := $images.GetMatch "*feature*" -}}
+        {{ if not $featured -}}
+            {{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" -}}
+        {{ end -}}
+        {{ with $featured -}}
+            {{ $resized := $featured.Fill "1280x640" }} {{/* Đảm bảo kích thước OG */}}
+            {{ $.Scratch.Set "thumbnail" $resized.Permalink -}}
+        {{ else -}}
+            {{ with $.Site.Params.opengraph.images -}} {{/* Thay đổi: .Site -> $.Site */}}
+                {{ $ogImage := index . 0 }}
+                {{/* Cố gắng lấy resource để resize */}}
+                {{ $ogImgResource := "" }}
+                 {{ if not (urls.Parse $ogImage).Scheme }}
+                    {{ $ogImgResource = resources.Get $ogImage }}
+                 {{ end }}
+                 {{ if $ogImgResource }}
+                     {{ $resizedOg := $ogImgResource.Fill "1280x640" }}
+                     {{ $.Scratch.Set "thumbnail" ($resizedOg.Permalink | absURL) -}}
+                 {{ else }}
+                     {{ $.Scratch.Set "thumbnail" ($ogImage | absURL) -}}
+                     {{/* warnf "SEO Thumbnail: Using default OpenGraph image '%s'. Ensure it meets size recommendations." $ogImage */}}
+                 {{ end }}
+            {{ end -}}
+        {{ end -}}
+    {{ end -}}
+{{ end -}}
+
+
+{{ if eq .Kind "404" -}}
+    <meta name="robots" content="noindex, follow">
+{{ else }}
+  {{ with or .Params.robots .Params.meta.robots -}} {{/* Vẫn giữ lại meta.robots nếu người dùng cũ muốn dùng */}}
+    <meta name="robots" content="{{ . }}">
+  {{ else -}}
+    <meta name="robots" content="index, follow">
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+    <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  {{ end -}}
+{{ end -}}
+
+{{ $siteTitle := $.Site.Title }} {{/* Thay đổi: .Site -> $.Site */}}
+{{ $pageTitle := $.Scratch.Get "title" }} {{/* Lấy title đã xử lý (title_seo hoặc title) */}}
+
+{{ if .IsHome -}}
+    <title>{{ $siteTitle }}{{ with $.Site.Params.head.tagline }} {{ $.Site.Params.main.separator }} {{ . }}{{ end }}</title> {{/* Thay đổi: .Site -> $.Site */}}
+{{ else -}}
+    <title>{{ $pageTitle }} {{ $.Site.Params.main.separator }} {{ $siteTitle }}</title> {{/* Thay đổi: .Site -> $.Site */}}
+{{ end -}}
+
+    <meta name="description" content="{{ $.Scratch.Get "description" }}">
+
+
+{{ $paginator := $.Store.Get "paginator" }}
+{{ if $paginator }}
+    <link rel="canonical" href="{{ $paginator.URL | absURL }}">
+    {{ if $paginator.HasPrev -}}
+        <link rel="prev" href="{{ $paginator.Prev.URL | absURL }}">
+    {{ end -}}
+    {{ if $paginator.HasNext -}}
+        <link rel="next" href="{{ $paginator.Next.URL | absURL }}">
+    {{ end -}}
+{{ else }}
+    {{/* Canonical link cho trang không phân trang */}}
+    <link rel="canonical" href="{{ .Permalink }}">
+{{ end -}}
+
+{{ partial "head/opengraph.html" . }}
+{{ partial "head/twitter_cards.html" . }}
+
+{{ range .AlternativeOutputFormats -}}
+    <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{ end -}}
+
+{{ partial "head/structured-data.html" . }}
