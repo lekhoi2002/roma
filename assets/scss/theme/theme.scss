@@ -1,4 +1,20 @@
 // Placeholder to quickly add your own styles
+/* assets/css/custom.css */
+
+.meta-box .meta-box-buttons {
+  display: flex;      /* Sử dụng Flexbox */
+  padding: 0 15px;  /* Padding 15px TRÁI và PHẢI */
+  gap: 15px;        /* Khoảng cách 15px GIỮA các nút */
+}
+
+/* Đảm bảo các nút con bên trong co giãn đều và có style chữ mong muốn */
+.meta-box .meta-box-buttons > .btn {
+  flex-grow: 1;     /* Chia sẻ không gian đồng đều */
+  flex-basis: 0;    /* Đảm bảo flex-grow hoạt động */
+  font-weight: 600 !important;  /* Đặt font-weight là 600 */
+  color: #ffffff !important; /* Đảm bảo chữ luôn màu trắng */
+  /* Các style khác của nút (màu nền, bo góc, shadow) vẫn dùng class Bootstrap */
+}
 // thu gon noi dung
 .category-description-container {
     position: relative;

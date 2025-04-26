@@ -1,0 +1,83 @@
+{{/* Path: layouts/du-an/single.html */}}
+{{/* Kế thừa hoàn toàn layout của noi-that */}}
+{{ define "main" }}
+  {{- /* Bạn có thể copy nội dung của layouts/noi-that/single.html vào đây */ -}}
+  {{- /* Hoặc nếu noi-that/single.html giống hệt _default/single.html thì có thể để trống để Hugo tự tìm layout _default */ -}}
+
+  {{/* --- BẮT ĐẦU: Copy nội dung từ layouts/noi-that/single.html --- */}}
+  {{- $breakpoint := $.Scratch.Get "breakpoint" -}}
+  {{- $hasSidebar := .Site.Params.navigation.sidebar | default true -}}
+  {{ $sidebar := "" }}
+  {{ if $hasSidebar }}{{ $sidebar = .Render "single/sidebar" }}{{ end }}
+
+  {{/* Offcanvas Sidebar */}}
+  {{ with $sidebar }}
+      <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvass-sidebar" aria-labelledby="offcanvas-label">
+          <div class="offcanvas-header">
+              <h5 class="offcanvas-title" id="offcanvas-label">{{ strings.FirstUpper $.Section }}</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="{{ T "close" }}"></button>
+          </div>
+          <div class="offcanvas-body">
+              {{ . | safeHTML }}
+          </div>
+      </div>
+  {{ end }}
+
+  <div class="container-xxl flex-fill p-2 px-xxl-0">
+      <div class="row">
+          <div class="col-12 col-lg-12 mb-4 p-3"> {{/* Toàn bộ chiều rộng */}}
+              {{ if .Site.Params.navigation.breadcrumb }}{{ partial "assets/breadcrumb.html" (dict "page" .) }}{{ end }}
+              {{ .Render "single/header" }}
+              {{- $includeToc := and .Site.Params.navigation.toc (or .Params.includeToc (ne .Params.includeToc false)) -}}
+              {{- if $includeToc -}}
+                  <div class="d-{{ $breakpoint.current }}-none pb-3">{{ partial "assets/toc-dropdown.html" (dict "page" .) }}</div>
+              {{- end -}}
+
+              <div class="row mb-4 align-items-start">
+                  <div class="col-lg-7 mb-3 mb-lg-0">
+                      {{ with .Params.thumbnail }}
+                          {{ $image := "" }}
+                          {{ $src := . }}
+                          {{ if not (urls.Parse $src).Scheme }}
+                              {{ $original := resources.Get $src }}
+                              {{ if $original }}
+                                   {{ $image = $original.Resize "800x" }}
+                              {{ else }}
+                                   {{ warnf "Ảnh thumbnail '%s' không tìm thấy trong trang: %s" $src $.File.Path }}
+                              {{ end }}
+                          {{ else }}
+                              {{ $image = $src }}
+                          {{ end }}
+                          {{ if $image }}
+                              <img src="{{ if reflect.IsMap $image }}{{ $image.RelPermalink }}{{ else }}{{ $image }}{{ end }}"
+                                   {{ if reflect.IsMap $image }} width="{{ $image.Width }}" height="{{ $image.Height }}" {{ end }}
+                                   class="img-fluid rounded shadow-sm"
+                                   alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ printf "%s - Ảnh đại diện" $.Title }}{{ end }}">
+                           {{ end }}
+                      {{ else }}
+                          <div class="bg-light border rounded d-flex align-items-center justify-content-center text-muted" style="min-height: 300px; aspect-ratio: 4/3;">
+                              <span>Không có ảnh đại diện</span>
+                          </div>
+                      {{ end }}
+                  </div>
+                  <div class="col-lg-5">
+                      {{/* Partial meta-box sẽ được gọi ở đây và tự xử lý logic bên trong */}}
+                      {{ partial "meta-box.html" . }}
+                  </div>
+              </div>
+              <hr class="my-4"/>
+              <article class="article-content">
+                  {{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) | safeHTML }}
+              </article>
+              {{ if .Params.series }}
+              <div class="series-container mt-5">
+                  {{ partial "series/series.html" . }}
+              </div>
+              {{ end }}
+              {{ partial "noi-that/related-posts.html" . }} {{/* Có thể tạo partial related-posts riêng cho du-an nếu cần */}}
+              {{ .Render "single/footer" }}
+          </div>
+      </div>
+  </div>
+  {{/* --- KẾT THÚC: Copy nội dung từ layouts/noi-that/single.html --- */}}
+{{ end }}

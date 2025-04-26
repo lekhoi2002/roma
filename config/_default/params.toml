@@ -38,7 +38,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["san-go-cong-nghiep", "san-go-xuong-ca", "gallery"]
+    sections = ["noi-that", "san-go-xuong-ca", "gallery"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -112,7 +112,7 @@
 # toml-docs-end sharing
 
 # toml-docs-start sections
-    [sections.san-go-cong-nghiep]
+    [sections.noi-that]
         title = "Sàn Gỗ Công Nghiệp"
         layout = "card"
         sort = "weight"
@@ -120,6 +120,7 @@
         color = "body"
         style = "border-0 shadow card-zoom card-body-margin"
         cols = 3
+        ratio = "4x3"
         padding = "2"
         header = "full"
         footer = "none"
@@ -173,7 +174,7 @@
 
 # toml-docs-start theme-colors
 [style]
-    primary = "#04370e"
+    primary = "#422a20"
     secondary = "#6c757d"
     success = "#198754"
     info = "#0dcaf0"
