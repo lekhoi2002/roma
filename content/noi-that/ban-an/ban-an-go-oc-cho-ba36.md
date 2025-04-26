@@ -13,4 +13,4 @@ _noi_that_bao_hanh: "36 tháng"
 _noi_that_tinh_trang: "Còn hàng"
 rank_math_analytic_object_id: "90"
 ---
-![](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba36-1-1280x960.webp)
+![bàn ăn gỗ óc chó tại hà nội](/img/ban-an/ba36/ban-an-go-oc-cho-ba36-1.webp)

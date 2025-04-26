@@ -4,7 +4,7 @@
     Ưu tiên hiển thị các bài có 'weight' trong front matter (số nhỏ trước).
     Các bài không có 'weight' sẽ hiển thị sau, sắp xếp theo ngày mới nhất.
   */}}
-  
+
 {{ $limit := 3 }} {{/* Giới hạn số bài viết liên quan cần hiển thị */}}
 {{ $currentPagePermalink := .Permalink }}
 {{ $relatedPosts := slice }} {{/* Slice cuối cùng để hiển thị */}}
@@ -25,31 +25,20 @@
   {{ if isset $page.Params "weight" }}
     {{ $weight := $page.Params.weight }}
     {{ $validWeight := false }}
-    
+
     {{/* Kiểm tra weight có phải số không bằng cách an toàn */}}
-    {{ if eq (printf "%T" $weight) "int" }}
-      {{ $validWeight = true }}
-    {{ else if eq (printf "%T" $weight) "float64" }}
+    {{ if or (eq (printf "%T" $weight) "int") (eq (printf "%T" $weight) "float64") }}
       {{ $validWeight = true }}
     {{ else if eq (printf "%T" $weight) "string" }}
-      {{/* Cố gắng chuyển đổi chuỗi thành số */}}
       {{ $weightNum := 0 }}
-      {{ if eq $weight "0" }}
-        {{ $validWeight = true }}
-      {{ else }}
-        {{ $error := false }}
-        {{ $weightNum = int $weight | default 0 }}
-        {{ if ne (printf "%v" $weightNum) "0" }}
-          {{ $validWeight = true }}
-        {{ end }}
-      {{ end }}
+      {{ if eq $weight "0" }}{{ $validWeight = true }}{{ else }}{{ $weightNum = int $weight | default 0 }}{{ if ne (printf "%v" $weightNum) "0" }}{{ $validWeight = true }}{{ end }}{{ end }}
     {{ end }}
-    
-    {{/* Phân loại trang dựa trên weight */}}
+
     {{ if $validWeight }}
       {{ $weightedPages = $weightedPages | append $page }}
     {{ else }}
-      {{ warnf "Related Posts: Page '%s' has a non-numeric weight value. Treating as unweighted." $page.File.Path }}
+      {{/* Ghi log cảnh báo nếu weight không hợp lệ (tùy chọn) */}}
+      {{/* warnf "Related Posts: Page '%s' has a non-numeric weight value '%v'. Treating as unweighted." $page.File.Path $weight */}}
       {{ $unweightedPages = $unweightedPages | append $page }}
     {{ end }}
   {{ else }}
@@ -58,27 +47,24 @@
 {{ end }}
 
 {{/*
-  3. Sắp xếp từng nhóm:
-     - Nhóm có weight: Sắp xếp theo weight tăng dần (số nhỏ trước)
-     - Nhóm không có weight: Sắp xếp theo ngày giảm dần (mới nhất trước)
+  3. Sắp xếp từng nhóm
 */}}
 {{ $sortedWeighted := sort $weightedPages ".Params.weight" }}
 {{ $sortedUnweighted := sort $unweightedPages ".Date" "desc" }}
 
 {{/*
-  4. Kết hợp 2 danh sách đã sắp xếp (weighted ưu tiên đứng trước)
+  4. Kết hợp 2 danh sách đã sắp xếp
 */}}
 {{ $combinedSorted := $sortedWeighted | append $sortedUnweighted }}
 
 {{/*
-  5. Lấy $limit bài đầu tiên từ danh sách kết hợp
+  5. Lấy $limit bài đầu tiên
 */}}
 {{ $relatedPosts = first $limit $combinedSorted }}
 
 
 {{/* --- PHẦN HIỂN THỊ CÁC BÀI LIÊN QUAN --- */}}
 
-{{/* Chỉ hiển thị nếu có bài viết liên quan */}}
 {{ if $relatedPosts }}
 <div class="related-posts-section mt-5 pt-4 border-top">
   <h3 class="mb-4 text-center">Sản phẩm liên quan</h3>
@@ -88,30 +74,35 @@
         <div class="card h-100 shadow-sm related-post-card">
           {{ $permalink := .RelPermalink }}
           {{ $title := .Title }}
-          {{ $thumbnail := .Params.thumbnail }}
+          {{ $thumbnail := .Params.thumbnail }} {{/* Lấy đường dẫn từ front matter */}}
 
           {{/* Xử lý Thumbnail */}}
-          {{ $image := "" }}
+          {{ $imageUrl := "" }} {{/* Khởi tạo biến URL ảnh cuối cùng */}}
           {{ if $thumbnail }}
             {{ $src := $thumbnail }}
-            {{ if not (urls.Parse $src).Scheme }}
-              {{ $original := resources.Get $src }}
+            {{ if not (urls.Parse $src).Scheme }} {{/* Chỉ xử lý ảnh cục bộ (không phải http/https) */}}
+              {{ $original := resources.Get $src }} {{/* Cố gắng tìm ảnh trong 'assets' */}}
               {{ if $original }}
-                {{ $image = $original.Fill "400x300" }}
+                {{ $processedImage := $original.Fill "400x300" }} {{/* Resize ảnh thành 400x300 */}}
+                {{ $imageUrl = $processedImage.RelPermalink }} {{/* Lấy đường dẫn của ảnh đã xử lý */}}
+              {{ else }}
+                {{ $imageUrl = $src }} {{/* Nếu không tìm thấy, dùng URL gốc */}}
+                {{ warnf "Related Posts Thumbnail: Resource not found for '%s' in page '%s'. Using original path." $src .File.Path }} {{/* Giữ lại cảnh báo này nếu muốn */}}
               {{ end }}
             {{ else }}
-              {{ $image = $src }} {{/* Ảnh từ link ngoài */}}
+              {{ $imageUrl = $src }} {{/* Nếu là link ngoài, dùng URL gốc */}}
             {{ end }}
           {{ end }}
 
           {{/* Link bao quanh ảnh */}}
           <a href="{{ $permalink }}" title="{{ $title }}">
-            {{ if $image }}
-              <img src="{{ if reflect.IsMap $image }}{{ $image.RelPermalink }}{{ else }}{{ $image }}{{ end }}"
+            {{ if ne $imageUrl "" }} {{/* Hiển thị ảnh nếu có URL */}}
+              <img src="{{ $imageUrl }}" {{/* Sử dụng URL đã được xác định */}}
                    class="card-img-top"
                    alt="{{ with .Params.image_alt }}{{ . }}{{ else }}{{ printf "%s - Ảnh liên quan" $title }}{{ end }}"
                    loading="lazy">
             {{ else }}
+              {{/* Fallback hiển thị nếu không có ảnh */}}
               <div class="card-img-top bg-light d-flex align-items-center justify-content-center text-muted" style="height: 225px; font-size: 0.9rem;">
                  <span>Ảnh đại diện</span>
               </div>

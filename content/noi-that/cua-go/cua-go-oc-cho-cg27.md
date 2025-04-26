@@ -14,4 +14,4 @@ _noi_that_tinh_trang: "Còn hàng"
 _noi_that_kich_thuoc: "Theo yêu cầu"
 rank_math_analytic_object_id: "12"
 ---
-![](https://romax.vn/wp-content/uploads/2025/03/cua-go-oc-cho-cg27-1-1280x1024.webp)
+![cửa gỗ gỗ tự nhiên óc chó đẹp](/img/cua-go/cg27/cua-go-oc-cho-cg27-1.webp)

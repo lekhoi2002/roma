@@ -43,4 +43,8 @@ Khám phá thêm vẻ đẹp và sự sang trọng của các sản phẩm nội
 \* [Mẫu Bàn ăn gỗ óc chó](https://romax.vn/danh-muc/phong-bep/ban-an-go-oc-cho/)
 \* [Mẫu Sofa gỗ óc chó](https://romax.vn/danh-muc/phong-khach/sofa-go-oc-cho/)
 Hãy để Giường ngủ gỗ óc chó trở thành tâm điểm của không gian phòng ngủ, mang đến sự sang trọng, đẳng cấp và những trải nghiệm tuyệt vời cho bạn.
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg24-15-1280x720.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg24-16-1280x720.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg24-17-1280x925.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg24-18-1280x720.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg24-19-1280x720.webp)
+
+![giường ngủ gỗ óc chó tại hà nội](/img/giuong/gg24/giuong-go-oc-cho-gg24-16.webp)
+![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gg24/giuong-go-oc-cho-gg24-17.webp)
+![giường ngủ gỗ óc chó tại hà nội](/img/giuong/gg24/giuong-go-oc-cho-gg24-18.webp)
+![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gg24/giuong-go-oc-cho-gg24-19.webp)

@@ -45,4 +45,7 @@ Tóm lại, chiếc giường gỗ óc chó ROMAX đóng vai trò là trái tim 
 * Những [Mẫu Bàn ăn gỗ óc chó](https://romax.vn/danh-muc/phong-bep/ban-an-go-oc-cho/) tinh tế cho không gian bếp ấm cúng.
 * Các bộ [Sofa gỗ óc chó cao cấp](https://romax.vn/danh-muc/phong-khach/sofa-go-oc-cho/) khẳng định đẳng cấp phòng khách.
 
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng3-00-15-1280x847.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng3-00-14-1280x850.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng3-00-13-1280x989.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng3-00-12-1280x847.webp)
+![giường ngủ gỗ óc chó đẹp](/img/giuong/gng3/giuong-ngu-go-oc-cho-gng3-00-12.webp)
+![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gng3/giuong-ngu-go-oc-cho-gng3-00-13.webp)
+![giường ngủ gỗ óc chó](/img/giuong/gng3/giuong-ngu-go-oc-cho-gng3-00-14.webp)
+![giường ngủ gỗ tự nhiên óc chó đẹp](/img/giuong/gng3/giuong-ngu-go-oc-cho-gng3-00-15.webp)

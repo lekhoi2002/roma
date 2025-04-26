@@ -44,5 +44,5 @@ Quý khách có thể tham khảo thêm các sản phẩm nội thất gỗ óc 
 * Khám phá các [Bàn ăn gỗ óc chó đẹp](https://romax.vn/danh-muc/phong-bep/ban-an-go-oc-cho/) cho phòng bếp.
 * Tìm hiểu về các [Mẫu Sofa gỗ óc chó](https://romax.vn/danh-muc/phong-khach/sofa-go-oc-cho/) đẳng cấp cho phòng khách.
 
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg37-48-1280x960.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg37-49-1280x960.webp)
+![giường ngủ gỗ tự nhiên óc chó đẹp](/img/giuong/gg37/giuong-go-oc-cho-gg37-48.webp)
+![giường ngủ gỗ tự nhiên óc chó đẹp](/img/giuong/gg37/giuong-go-oc-cho-gg37-49.webp)

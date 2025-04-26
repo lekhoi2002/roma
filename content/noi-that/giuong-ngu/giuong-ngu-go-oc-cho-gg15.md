@@ -42,7 +42,7 @@ Hoàn thiện không gian sống đẳng cấp với những [Mẫu Sofa gỗ ó
 
 Hãy để **Xưởng Sản Xuất Gỗ ÓC Chó ROMAX** đồng hành cùng bạn kiến tạo không gian sống mơ ước.
 
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg15-1-1280x960.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg15-54-1280x960.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg15-55-1280x960.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg15-56-1280x960.webp)
+![giường ngủ gỗ óc chó tại hà nội](/img/giuong/gg15/giuong-go-oc-cho-gg15-1.webp)
+![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gg15/giuong-go-oc-cho-gg15-54.webp)
+![giường ngủ gỗ tự nhiên óc chó đẹp](/img/giuong/gg15/giuong-go-oc-cho-gg15-55.webp)
+![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gg15/giuong-go-oc-cho-gg15-56.webp)

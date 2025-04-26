@@ -12,4 +12,4 @@ _noi_that_mau_sac: "Vân, màu gỗ tự nhiên"
 _noi_that_bao_hanh: "36 tháng"
 _noi_that_tinh_trang: "Còn hàng"
 ---
-![](https://romax.vn/wp-content/uploads/2025/03/ban-lam-viec-go-oc-cho-blv8-00-1-1280x853.webp)
+![bàn làm việc gỗ óc chó](/img/ban-lv/blv8/ban-lam-viec-go-oc-cho-blv8-00-1.webp)

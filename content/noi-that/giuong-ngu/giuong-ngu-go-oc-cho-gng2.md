@@ -41,6 +41,6 @@ Giường ngủ gỗ óc chó Mã 2 chính là yếu tố then chốt, là tâm 
 * Những [Bàn ăn gỗ óc chó cao cấp](https://romax.vn/danh-muc/phong-bep/ban-an-go-oc-cho/) cho không gian bếp ấm cúng.
 * Bộ sưu tập [Sofa gỗ óc chó tự nhiên](https://romax.vn/danh-muc/phong-khach/sofa-go-oc-cho/) cho phòng khách sang trọng.
 
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng2-00-6-1280x914.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng2-00-7-1280x914.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng2-00-8-1280x914.webp)
+![giường ngủ gỗ óc chó](/img/giuong/gng2/giuong-ngu-go-oc-cho-gng2-00-6.webp)
+![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gng2/giuong-ngu-go-oc-cho-gng2-00-7.webp)
+![giường ngủ gỗ óc chó đẹp](/img/giuong/gng2/giuong-ngu-go-oc-cho-gng2-00-8.webp)

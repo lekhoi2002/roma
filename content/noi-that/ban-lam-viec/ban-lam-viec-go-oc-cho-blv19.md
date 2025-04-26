@@ -13,4 +13,5 @@ _noi_that_bao_hanh: "36 tháng"
 _noi_that_tinh_trang: "Còn hàng"
 rank_math_analytic_object_id: "16"
 ---
-![](https://romax.vn/wp-content/uploads/2025/03/ban-lam-viec-go-oc-cho-blv19-1-1280x960.webp) ![](https://romax.vn/wp-content/uploads/2025/03/ban-lam-viec-go-oc-cho-blv19-2-1280x960.webp)
+![bàn làm việc gỗ óc chó đẹp](/img/ban-lv/blv19/ban-lam-viec-go-oc-cho-blv19-1.webp)
+![bàn làm việc gỗ óc chó tại hà nội](/img/ban-lv/blv19/ban-lam-viec-go-oc-cho-blv19-2.webp)

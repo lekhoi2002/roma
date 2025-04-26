@@ -12,4 +12,5 @@ _noi_that_mau_sac: "Vân, màu gỗ tự nhiên"
 _noi_that_bao_hanh: "36 tháng"
 _noi_that_tinh_trang: "Còn hàng"
 ---
-![](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba23-1-1280x825.webp) ![](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba23-2-1280x825.webp)
+![bàn ăn gỗ tự nhiên óc chó đẹp](/img/ban-an/ba23/ban-an-go-oc-cho-ba23-1.webp)
+![bàn ăn gỗ tự nhiên óc chó đẹp](/img/ban-an/ba23/ban-an-go-oc-cho-ba23-2.webp)

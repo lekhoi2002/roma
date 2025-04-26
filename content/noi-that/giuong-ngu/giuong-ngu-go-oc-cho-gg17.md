@@ -42,5 +42,5 @@ Chiếc giường ngủ gỗ óc chó từ Xưởng Sản Xuất Gỗ ÓC Chó R
 * Tham khảo thêm các mẫu [Bàn ăn gỗ óc chó tự nhiên](https://romax.vn/danh-muc/phong-bep/ban-an-go-oc-cho/) cho không gian bếp.
 * Khám phá các [Mẫu Sofa gỗ óc chó](https://romax.vn/danh-muc/phong-khach/sofa-go-oc-cho/) sang trọng cho phòng khách.
 
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg17-2-1280x853.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg17-3-1280x853.webp)
+![giường ngủ gỗ óc chó đẹp](/img/giuong/gg17/giuong-go-oc-cho-gg17-2.webp)
+![giường ngủ gỗ tự nhiên óc chó đẹp](/img/giuong/gg17/giuong-go-oc-cho-gg17-3.webp)

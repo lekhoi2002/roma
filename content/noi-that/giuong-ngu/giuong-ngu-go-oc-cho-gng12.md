@@ -21,5 +21,6 @@ rank_math_primary_noi_that_category: "0"
 \* \*\*Màu sắc:\*\* Tông màu gỗ nâu trầm ấm, dễ dàng phối hợp với nhiều phong cách nội thất khác nhau, đặc biệt là các không gian hiện đại và sang trọng.
 \* \*\*Tổng thể:\*\* Chiếc giường mang lại vẻ đẹp đẳng cấp, tinh tế và thoải mái, là trung tâm hoàn hảo cho một phòng ngủ master hiện đại.
 Để biết thông tin chi tiết hơn về kích thước chuẩn, chất liệu gỗ cụ thể, giá thành và các tùy chọn khác, bạn cần liên hệ ROMAX
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng12-00-16-1280x853.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng12-00-17-1280x853.webp)
+
+![giường ngủ gỗ óc chó](/img/giuong/gng12/giuong-ngu-go-oc-cho-gng12-00-16.webp)
+![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gng12/giuong-ngu-go-oc-cho-gng12-00-17.webp)

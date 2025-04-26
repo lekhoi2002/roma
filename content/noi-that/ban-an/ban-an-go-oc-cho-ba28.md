@@ -13,4 +13,6 @@ _noi_that_bao_hanh: "36 tháng"
 _noi_that_tinh_trang: "Còn hàng"
 rank_math_analytic_object_id: "96"
 ---
-![](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba28-3-1280x720.webp) ![](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba28-2-1280x720.webp) ![](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba28-1-1280x960.webp)
+![bàn ăn gỗ tự nhiên óc chó](/img/ban-an/ba28/ban-an-go-oc-cho-ba28-1.webp)
+![bàn ăn gỗ tự nhiên óc chó đẹp](/img/ban-an/ba28/ban-an-go-oc-cho-ba28-2.webp)
+![bàn ăn gỗ tự nhiên óc chó](/img/ban-an/ba28/ban-an-go-oc-cho-ba28-3.webp)

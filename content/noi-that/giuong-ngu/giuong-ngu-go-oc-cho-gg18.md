@@ -46,6 +46,6 @@ Chiếc giường ngủ gỗ óc chó ROMAX không chỉ đóng vai trò là nơ
 
 Hãy để Xưởng Sản Xuất Gỗ ÓC Chó ROMAX đồng hành cùng bạn kiến tạo không gian sống mơ ước.
 
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg18-4-1280x854.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg18-5-1280x854.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg18-6-1280x854.webp)
+![giường ngủ gỗ óc chó](/img/giuong/gg18/giuong-go-oc-cho-gg18-4.webp)
+![giường ngủ gỗ óc chó](/img/giuong/gg18/giuong-go-oc-cho-gg18-5.webp)
+![giường ngủ gỗ tự nhiên óc chó đẹp](/img/giuong/gg18/giuong-go-oc-cho-gg18-6.webp)

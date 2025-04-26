@@ -42,6 +42,6 @@ Bạn có thể tham khảo thêm nhiều Mẫu Giường ngủ gỗ óc chó, G
 
 Ngoài ra, chúng tôi còn cung cấp các sản phẩm nội thất gỗ óc chó khác như Mẫu Bàn ăn gỗ óc chó, Bàn ăn gỗ óc chó đẹp, Bàn ăn gỗ óc chó cao cấp cho phòng bếp và Mẫu Sofa gỗ óc chó, Sofa gỗ óc chó đẹp, Sofa gỗ óc chó cao cấp cho phòng khách.
 
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg22-12-1280x720.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg22-13-1280x925.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg22-14-1280x720.webp)
+![giường ngủ gỗ óc chó tại hà nội](/img/giuong/gg22/giuong-go-oc-cho-gg22-12.webp)
+![giường ngủ gỗ óc chó đẹp](/img/giuong/gg22/giuong-go-oc-cho-gg22-13.webp)
+![giường ngủ gỗ tự nhiên óc chó đẹp](/img/giuong/gg22/giuong-go-oc-cho-gg22-14.webp)

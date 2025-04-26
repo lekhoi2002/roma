@@ -13,4 +13,5 @@ _noi_that_bao_hanh: "36 tháng"
 _noi_that_tinh_trang: "Còn hàng"
 rank_math_analytic_object_id: "45"
 ---
-![](https://romax.vn/wp-content/uploads/2025/03/ban-trang-diem-go-oc-cho-btd29-6-1280x1024.webp) ![](https://romax.vn/wp-content/uploads/2025/03/ban-trang-diem-go-oc-cho-btd29-7-1280x1024.webp)
+![bàn trang điểm gỗ óc chó đẹp](/img/ban-td/btd29/ban-trang-diem-go-oc-cho-btd29-6.webp)
+![bàn trang điểm gỗ óc chó](/img/ban-td/btd29/ban-trang-diem-go-oc-cho-btd29-7.webp)

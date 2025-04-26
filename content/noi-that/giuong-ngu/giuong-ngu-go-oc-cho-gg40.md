@@ -38,7 +38,7 @@ Chiếc giường này đóng vai trò là hạt nhân, là điểm nhấn trung
 
 Để làm phong phú thêm lựa chọn cho không gian sống của bạn, mời bạn khám phá thêm các mẫu [Giường ngủ gỗ óc chó đẹp](https://romax.vn/danh-muc/phong-ngu/giuong-go-oc-cho/) khác do ROMAX thiết kế và sản xuất. Đồng thời, đừng quên tham khảo những bộ sưu tập [Sofa gỗ óc chó tự nhiên](https://romax.vn/danh-muc/phong-khach/sofa-go-oc-cho/) cho phòng khách thêm phần ấn tượng và các [Bàn ăn gỗ óc chó cao cấp](https://romax.vn/danh-muc/phong-bep/ban-an-go-oc-cho/) cho khu vực bếp núc ấm cúng.
 
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg40-50-1280x854.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg40-51-1280x1066.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg40-52-1280x854.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg40-53-1280x854.webp)
+![giường ngủ gỗ óc chó tại hà nội](/img/giuong/gg40/giuong-go-oc-cho-gg40-50.webp)
+![giường ngủ gỗ óc chó](/img/giuong/gg40/giuong-go-oc-cho-gg40-51.webp)
+![giường ngủ gỗ óc chó tại hà nội](/img/giuong/gg40/giuong-go-oc-cho-gg40-52.webp)
+![giường ngủ gỗ tự nhiên óc chó đẹp](/img/giuong/gg40/giuong-go-oc-cho-gg40-53.webp)

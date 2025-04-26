@@ -13,4 +13,6 @@ _noi_that_bao_hanh: "36 tháng"
 _noi_that_tinh_trang: "Còn hàng"
 rank_math_analytic_object_id: "26"
 ---
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg26-25-1280x853.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg26-26-1280x853.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg26-27-1280x853.webp)
+![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gg26/giuong-go-oc-cho-gg26-25.webp)
+![giường ngủ gỗ óc chó](/img/giuong/gg26/giuong-go-oc-cho-gg26-26.webp)
+![giường ngủ gỗ óc chó tại hà nội](/img/giuong/gg26/giuong-go-oc-cho-gg26-27.webp)

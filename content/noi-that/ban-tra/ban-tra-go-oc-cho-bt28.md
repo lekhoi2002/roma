@@ -13,4 +13,5 @@ _noi_that_bao_hanh: "36 tháng"
 _noi_that_tinh_trang: "Còn hàng"
 rank_math_analytic_object_id: "47"
 ---
-![](https://romax.vn/wp-content/uploads/2025/03/ban-tra-go-oc-cho-bt28-1-1280x960.webp) ![](https://romax.vn/wp-content/uploads/2025/03/ban-tra-go-oc-cho-bt28-2-1280x960.webp)
+![bàn trà gỗ óc chó tại hà nội](/img/ban-tra/bt28/ban-tra-go-oc-cho-bt28-1.webp)
+![bàn trà gỗ óc chó đẹp](/img/ban-tra/bt28/ban-tra-go-oc-cho-bt28-2.webp)

@@ -12,4 +12,4 @@ _noi_that_mau_sac: "Vân, màu gỗ tự nhiên"
 _noi_that_bao_hanh: "36 tháng"
 _noi_that_tinh_trang: "Còn hàng"
 ---
-![](https://romax.vn/wp-content/uploads/2025/03/ban-tra-go-oc-cho-bta2-00-1-1280x842.webp)
+![bàn trà gỗ óc chó tại hà nội](/img/ban-tra/btra2/ban-tra-go-oc-cho-btra2-00-1.webp)

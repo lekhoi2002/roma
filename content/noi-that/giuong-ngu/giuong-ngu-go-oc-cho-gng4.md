@@ -39,4 +39,8 @@ Tham khảo thêm các sản phẩm nội thất gỗ óc chó cao cấp từ X�
 * [Bàn ăn gỗ óc chó tự nhiên](https://romax.vn/danh-muc/phong-bep/ban-an-go-oc-cho/)
 * [Mẫu Sofa gỗ óc chó](https://romax.vn/danh-muc/phong-khach/sofa-go-oc-cho/)
 
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng4-00-20-1280x985.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng4-00-21-1280x985.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng4-00-22-1280x985.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng4-00-18-1280x985.webp) ![](https://romax.vn/wp-content/uploads/2025/03/giuong-ngu-go-oc-cho-gng4-00-19-1280x985.webp)
+![giường ngủ gỗ óc chó đẹp](/img/giuong/gng4/giuong-ngu-go-oc-cho-gng4-00-18.webp)
+![giường ngủ gỗ óc chó đẹp](/img/giuong/gng4/giuong-ngu-go-oc-cho-gng4-00-19.webp)
+![giường ngủ gỗ óc chó](/img/giuong/gng4/giuong-ngu-go-oc-cho-gng4-00-20.webp)
+![giường ngủ gỗ óc chó tại hà nội](/img/giuong/gng4/giuong-ngu-go-oc-cho-gng4-00-21.webp)
+![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gng4/giuong-ngu-go-oc-cho-gng4-00-22.webp)
