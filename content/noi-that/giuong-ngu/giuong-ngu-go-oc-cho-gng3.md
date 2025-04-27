@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó gng3"
 date: 2025-03-26T08:44:11+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-ngu-go-oc-cho-gng3-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó ROMAX: Trái Tim Ấm Áp Cho Không Gian Nghỉ Ngơi Đẳng Cấp

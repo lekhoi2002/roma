@@ -1,7 +1,7 @@
 ---
 title: "Kinh Nghiệm Mua Giường Gỗ Óc Chó Chất Lượng: Những Lưu Ý Quan Trọng Không Thể Bỏ Qua"
 date: 2025-04-14T16:49:53+00:00
-categories: ['Kinh Nghiệm']
+categories: ['kinh-nghiem']
 tags: ['giường']
 draft: false
 ---

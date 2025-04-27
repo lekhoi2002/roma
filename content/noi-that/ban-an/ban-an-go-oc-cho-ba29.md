@@ -1,8 +1,8 @@
 ---
 title: "Bàn ăn gỗ óc chó BA29"
 date: 2025-03-28T06:05:24+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/ban-an/ban-an-go-oc-cho-ba29-dep.webp
+tags: ['ban-an']
 draft: false
 ---
 ![bàn ăn gỗ tự nhiên óc chó đẹp](/img/ban-an/ba29/ban-an-go-oc-cho-ba29-1.webp)

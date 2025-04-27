@@ -1,8 +1,8 @@
 ---
 title: "Tủ bếp gỗ óc chó TB28"
 date: 2025-03-28T06:12:20+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/tu-bep/tu-bep-go-oc-cho-tb28-dep.webp
+tags: ['tu-bep']
 draft: false
 ---
 ![tủ bếp gỗ óc chó tại hà nội](/img/tu-bep/tb28/tu-bep-go-oc-cho-tb28-1.webp)

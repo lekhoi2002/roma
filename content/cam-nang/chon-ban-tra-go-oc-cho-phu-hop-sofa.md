@@ -1,7 +1,7 @@
 ---
 title: "Cách Chọn Bàn Trà Gỗ Óc Chó Phối Hợp Hoàn Hảo Với Sofa Nhà Bạn"
 date: 2025-04-14T16:44:06+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn trà']
 draft: false
 ---

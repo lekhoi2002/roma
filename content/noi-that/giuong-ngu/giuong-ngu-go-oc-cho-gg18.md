@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG18"
 date: 2025-03-28T07:13:45+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg18-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó ROMAX: Nét Chấm Phá Sang Trọng Cho Không Gian Nghỉ Ngơi Đẳng Cấp

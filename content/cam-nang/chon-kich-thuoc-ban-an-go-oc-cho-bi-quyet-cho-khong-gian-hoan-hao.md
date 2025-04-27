@@ -1,7 +1,7 @@
 ---
 title: "Chọn Kích Thước Bàn Ăn Gỗ Óc Chó: Bí Quyết Cho Không Gian Hoàn Hảo"
 date: 2025-04-14T16:36:45+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn ăn']
 draft: false
 ---

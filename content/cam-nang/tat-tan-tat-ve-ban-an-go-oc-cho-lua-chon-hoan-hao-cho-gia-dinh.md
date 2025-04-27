@@ -1,7 +1,7 @@
 ---
 title: "Tất Tần Tật Về Bàn Ăn Gỗ Óc Chó: Lựa Chọn Hoàn Hảo Cho Gia Đình"
 date: 2025-04-14T16:09:12+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['gỗ óc chó']
 draft: false
 ---

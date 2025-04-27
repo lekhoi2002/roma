@@ -1,7 +1,7 @@
 ---
 title: "Giá Bàn Ăn Gỗ Óc Chó Bao Nhiêu? Cập Nhật Bảng Giá Mới Nhất [2025]"
 date: 2025-04-14T16:36:45+00:00
-categories: ['Bảng Giá']
+categories: ['bang-gia']
 tags: ['bàn ăn']
 draft: false
 ---

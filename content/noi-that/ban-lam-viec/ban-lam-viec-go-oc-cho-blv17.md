@@ -1,7 +1,7 @@
 ---
 title: "Bàn làm việc gỗ óc chó BLV17"
 date: 2025-03-28T07:21:33+00:00
-categories: []
+thumbnail: img/thumb/ban-lv/ban-lam-viec-go-oc-cho-blv17-dep.webp
 tags: []
 draft: false
 ---

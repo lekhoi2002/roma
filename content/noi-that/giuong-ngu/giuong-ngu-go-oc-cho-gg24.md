@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG24"
 date: 2025-03-28T07:15:13+00:00
-categories: []
-tags: []
+categories: ['giuong-ngu']
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó – Biểu Tượng Của Sự Sang Trọng và Tiện Nghi

@@ -1,7 +1,7 @@
 ---
 title: "Giá Sofa Gỗ Óc Chó Bao Nhiêu? Yếu Tố Ảnh Hưởng & Báo Giá 2025"
 date: 2025-04-14T16:52:22+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['sofa']
 draft: false
 ---

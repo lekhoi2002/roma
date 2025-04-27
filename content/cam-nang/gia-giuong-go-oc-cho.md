@@ -1,7 +1,7 @@
 ---
 title: "Giá Giường Gỗ Óc Chó Bao Nhiêu Tiền? Các Yếu Tố Ảnh Hưởng & Bảng Giá Tham Khảo [2025]"
 date: 2025-04-14T16:49:53+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['giường']
 draft: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó gng7"
 date: 2025-03-26T08:45:53+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-ngu-go-oc-cho-gng7-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Gỗ Óc Chó Mẫu Mã 7 - Nét Đẹp Tinh Tế Cho Không Gian Nghỉ Ngơi

@@ -1,7 +1,7 @@
 ---
 title: "Bàn Trang Điểm Gỗ Óc Chó Là Gì? Khám Phá Vẻ Đẹp Đẳng Cấp & Sang Trọng"
 date: 2025-04-14T16:45:59+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn trang điểm']
 draft: false
 ---

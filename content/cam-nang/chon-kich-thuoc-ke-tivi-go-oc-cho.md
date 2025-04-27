@@ -1,7 +1,7 @@
 ---
 title: "Bí Quyết Chọn Kích Thước Kệ Tivi Gỗ Óc Chó Chuẩn Đẹp Cho Phòng Khách"
 date: 2025-04-14T16:53:31+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['kệ tivi']
 draft: false
 ---

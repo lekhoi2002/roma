@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG32"
 date: 2025-03-28T07:18:32+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg32-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ![giường ngủ gỗ óc chó](/img/giuong/gg32/giuong-go-oc-cho-gg32-40.webp)

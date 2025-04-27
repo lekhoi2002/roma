@@ -1,7 +1,7 @@
 ---
 title: "Kinh Nghiệm Mua Bàn Trà Gỗ Óc Chó Chất Lượng: 5 Điều Cần Lưu Ý"
 date: 2025-04-14T16:44:06+00:00
-categories: ['Kinh Nghiệm']
+categories: ['kinh-nghiem']
 tags: ['bàn trà']
 draft: false
 ---

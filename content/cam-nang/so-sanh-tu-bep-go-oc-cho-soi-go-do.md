@@ -1,7 +1,7 @@
 ---
 title: "So Sánh Tủ Bếp Gỗ Óc Chó, Gỗ Sồi và Gỗ Gõ Đỏ: Chọn Loại Nào Tốt Nhất?"
 date: 2025-04-14T16:55:19+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['tủ bếp']
 draft: false
 ---

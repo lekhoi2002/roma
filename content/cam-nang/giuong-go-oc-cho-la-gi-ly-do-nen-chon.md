@@ -1,7 +1,7 @@
 ---
 title: "Giường Gỗ Óc Chó Là Gì? Lý Do Nên Chọn Cho Không Gian Nội Thất Cao Cấp"
 date: 2025-04-14T16:49:53+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['giường']
 draft: false
 ---

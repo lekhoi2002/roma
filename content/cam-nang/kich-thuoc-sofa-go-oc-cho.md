@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Chọn Kích Thước Sofa Gỗ Óc Chó Chuẩn Cho Từng Phòng Khách"
 date: 2025-04-14T16:51:25+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['giường']
 draft: false
 ---

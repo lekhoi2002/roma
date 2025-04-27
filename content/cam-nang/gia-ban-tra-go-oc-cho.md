@@ -1,7 +1,7 @@
 ---
 title: "Giá Bàn Trà Gỗ Óc Chó Bao Nhiêu? Các Yếu Tố Quyết Định Giá Trị"
 date: 2025-04-14T16:44:06+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn trà']
 draft: false
 ---

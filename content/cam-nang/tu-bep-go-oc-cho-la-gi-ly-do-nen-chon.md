@@ -1,7 +1,7 @@
 ---
 title: "Tủ Bếp Gỗ Óc Chó Là Gì? Lý Do Nên Chọn Cho Không Gian Bếp Cao Cấp"
 date: 2025-04-14T16:55:19+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['tủ bếp']
 draft: false
 ---

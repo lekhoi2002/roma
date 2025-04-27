@@ -1,7 +1,7 @@
 ---
 title: "So Sánh Tủ Áo Gỗ Óc Chó Với Gỗ Sồi, Gỗ Gõ Đỏ: Nên Chọn Loại Nào?"
 date: 2025-04-14T16:54:21+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['tủ áo']
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kinh Nghiệm Chọn Mua và Đặt Đóng Tủ Bếp Gỗ Óc Chó Uy Tín, Chất Lượng"
 date: 2025-04-14T16:55:19+00:00
-categories: ['Kinh Nghiệm']
+categories: ['kinh-nghiem']
 tags: ['tủ bếp']
 draft: false
 ---

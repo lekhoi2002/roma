@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG15"
 date: 2025-03-28T07:12:54+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg15-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó Đẳng Cấp: Nét Chấm Phá Tinh Tế Cho Không Gian Nghỉ Ngơi

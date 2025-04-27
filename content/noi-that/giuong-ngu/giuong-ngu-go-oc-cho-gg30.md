@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG30"
 date: 2025-03-28T07:17:30+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg30-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ![giường ngủ gỗ óc chó tại hà nội](/img/giuong/gg30/giuong-go-oc-cho-gg30-35.webp)

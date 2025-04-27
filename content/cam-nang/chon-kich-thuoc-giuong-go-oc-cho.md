@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Chọn Kích Thước Giường Gỗ Óc Chó Phù Hợp Với Phòng Ngủ"
 date: 2025-04-14T16:49:53+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['giường']
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "5+ Cách Nhận Biết Sofa Gỗ Óc Chó Thật Giả Chuẩn Xác Nhất"
 date: 2025-04-14T16:52:22+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['sofa']
 draft: false
 ---

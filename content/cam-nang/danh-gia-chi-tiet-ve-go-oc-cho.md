@@ -1,7 +1,7 @@
 ---
 title: "Đánh Giá Chi Tiết Gỗ Óc Chó: Có Tốt , Bền và Đắt Không?"
 date: 2025-04-13T14:09:31+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['gỗ óc chó']
 draft: false
 ---

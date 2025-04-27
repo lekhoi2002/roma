@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG31"
 date: 2025-03-28T07:17:56+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg31-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ![giường ngủ gỗ tự nhiên óc chó đẹp](/img/giuong/gg31/giuong-go-oc-cho-gg31-38.webp)

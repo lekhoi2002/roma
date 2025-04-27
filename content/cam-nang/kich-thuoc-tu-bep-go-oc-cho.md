@@ -1,7 +1,7 @@
 ---
 title: "Kích Thước Tủ Bếp Gỗ Óc Chó Tiêu Chuẩn và Lưu Ý Khi Thiết Kế"
 date: 2025-04-14T16:55:19+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['tủ bếp']
 draft: false
 ---

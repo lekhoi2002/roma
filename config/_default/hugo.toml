@@ -64,6 +64,13 @@ home = ["HTML", "RSS", "REDIR", "server"]
 [taxonomies]
   tag = 'tags'
   series = 'series'
+  category = "categories"
+
+[slug]
+  unicode = false
+
+[permalinks]
+  categories = "/:slug/"
 
 [pagination]
   pagerSize = 15

@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Vệ Sinh Và Bảo Quản Giường Gỗ Óc Chó Đúng Cách Luôn Bền Đẹp"
 date: 2025-04-14T16:49:53+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['giường']
 draft: false
 ---

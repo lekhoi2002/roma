@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó gng1"
 date: 2025-03-26T08:42:47+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-ngu-go-oc-cho-gng1-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gng1/giuong-ngu-go-oc-cho-gng1-00-1.webp)

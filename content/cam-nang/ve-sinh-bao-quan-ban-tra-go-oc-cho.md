@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Vệ Sinh, Bảo Quản Bàn Trà Gỗ Óc Chó Luôn Sáng Bóng"
 date: 2025-04-14T16:44:06+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn trà']
 draft: false
 ---

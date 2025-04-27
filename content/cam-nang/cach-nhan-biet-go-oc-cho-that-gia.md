@@ -1,7 +1,7 @@
 ---
 title: "Nhận Biết Gỗ Óc Chó: Vân Gỗ, Màu Sắc Tự Nhiên & Bảng Màu Chuẩn"
 date: 2025-04-13T14:22:19+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['gỗ óc chó']
 draft: false
 ---

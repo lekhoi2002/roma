@@ -1,7 +1,7 @@
 ---
 title: "Cách Nhận Biết Giường Gỗ Óc Chó Thật Giả Chuẩn Xác Nhất Cho Người Mua"
 date: 2025-04-14T16:49:53+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['giường']
 draft: false
 ---

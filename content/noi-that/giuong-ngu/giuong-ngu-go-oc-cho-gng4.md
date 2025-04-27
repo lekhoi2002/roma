@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó gng4"
 date: 2025-03-26T08:44:53+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-ngu-go-oc-cho-gng4-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó Cao Cấp - Tâm Điểm Sang Trọng Cho Không Gian Nghỉ Ngơi

@@ -1,7 +1,7 @@
 ---
 title: "Kệ Tivi Gỗ Óc Chó Là Gì? Tại Sao Là Lựa Chọn Hàng Đầu Cho Nội Thất Cao Cấp?"
 date: 2025-04-14T16:53:31+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['kệ tivi']
 draft: false
 ---

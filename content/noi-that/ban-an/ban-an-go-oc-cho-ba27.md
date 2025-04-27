@@ -1,8 +1,8 @@
 ---
 title: "Bàn ăn gỗ óc chó BA27"
 date: 2025-03-28T06:02:39+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/ban-an/ban-an-go-oc-cho-ba27-dep.webp
+tags: ['ban-an']
 draft: false
 ---
 ![bàn ăn gỗ óc chó tại hà nội](/img/ban-an/ba27/ban-an-go-oc-cho-ba27-1.webp)

@@ -113,47 +113,22 @@
 
 # toml-docs-start sections
     [sections.noi-that]
-        title = "Sàn Gỗ Công Nghiệp"
+        title = "Nội Thất"
         layout = "card"
         sort = "weight"
         background = ""
         color = "body"
         style = "border-0 shadow card-zoom card-body-margin"
         cols = 3
-        ratio = "4x3"
+        ratio = "3x2"
         padding = "2"
         header = "full"
         footer = "none"
         orientation = "stacked"
         homepage = 6
-    [sections.san-go-xuong-ca]
-        title = "Sàn Gỗ Xương Cá"
-        layout = "card"
-        sort = "weight"
-        background = ""
-        color = "body"
-        style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
-        padding = "3"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        homepage = 6
-    [sections.gallery]
-        title = "Dự Án Đã Thi Công"
-        layout = "card"
-        sort = "date"
-        background = ""
-        color = "body-tertiary"
-        style = "border-0 shadow card-zoom card-body-margin"
-        cols = 3
-        padding = "3"
-        header = "full"
-        footer = "none"
-        orientation = "stacked"
-        homepage = 6
-[sections.tu-van]
-    title = "Tư Vấn"
+
+[sections.cam-nang]
+    title = "Cẩm Nang"
     layout = "card"
     sort = "date"
     background = ""

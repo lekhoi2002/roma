@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG34-2"
 date: 2025-03-28T07:19:25+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg34-v2-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó 34v2: Tuyệt Tác Sang Trọng Cho Phòng Ngủ Đẳng Cấp
@@ -35,5 +35,5 @@ Giường ngủ gỗ óc chó 34v2 của Xưởng Sản Xuất Gỗ ÓC Chó ROM
 * Những [Mẫu Bàn ăn gỗ óc chó](https://romax.vn/danh-muc/phong-bep/ban-an-go-oc-cho/)
 * Bộ sưu tập [Sofa gỗ óc chó đẹp](https://romax.vn/danh-muc/phong-khach/sofa-go-oc-cho/)
 
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg34-v2-44-1280x826.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg34-v2-47-1280x826.webp)
+!['giuong-ngu'](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg34-v2-44-1280x826.webp)
+!['giuong-ngu'](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg34-v2-47-1280x826.webp)

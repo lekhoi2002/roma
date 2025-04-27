@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Chọn Kích Thước Tủ Áo Gỗ Óc Chó Chuẩn & Phù Hợp Không Gian"
 date: 2025-04-14T16:54:21+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['tủ áo']
 draft: false
 ---

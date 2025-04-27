@@ -1,8 +1,8 @@
 ---
 title: "Kệ Tivi gỗ óc chó ktv1"
 date: 2025-03-26T06:31:12+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/ke-tivi/ke-ti-vi-ktv1-dep.webp
+tags: ['ke-tivi']
 draft: false
 ---
 ![kệ tivi gỗ tự nhiên óc chó đẹp](/img/ke-tivi/ktv1/ke-ti-vi-ktv1-00-1.webp)

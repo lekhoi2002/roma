@@ -1,7 +1,7 @@
 ---
 title: "Ưu Và Nhược Điểm Của Bàn Trang Điểm Gỗ Óc Chó: Có Nên Đầu Tư?"
 date: 2025-04-14T16:45:59+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn trang điểm']
 draft: false
 ---

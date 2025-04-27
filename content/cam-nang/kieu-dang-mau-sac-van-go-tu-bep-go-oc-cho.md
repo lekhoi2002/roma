@@ -1,7 +1,7 @@
 ---
 title: "Các Kiểu Dáng, Màu Sắc và Vân Gỗ Tủ Bếp Gỗ Óc Chó Phổ Biến Nhất"
 date: 2025-04-14T16:55:19+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['tủ bếp']
 draft: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó gng8"
 date: 2025-03-26T08:46:36+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-ngu-go-oc-cho-gng8-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ### Đặc Điểm Nổi Bật Của Giường Ngủ Gỗ Óc Chó Mẫu 8

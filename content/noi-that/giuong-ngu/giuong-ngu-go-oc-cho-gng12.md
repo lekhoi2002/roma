@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó gng12"
 date: 2025-03-26T08:47:38+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-ngu-go-oc-cho-gng12-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Mẫu Giường Hiện Đại Mã GNG12

@@ -1,0 +1,5 @@
+[slug]
+  unicode = false
+
+Điều này sẽ chuyển Nội Thất thành noi-that trong URL.
+dụng cấu hình để chuyển đổi ký tự Unicode thành ASCII trong tệp config.toml

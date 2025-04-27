@@ -1,7 +1,7 @@
 ---
 title: "Gỗ Óc Chó: Khám Phá Vẻ Đẹp Đẳng Cấp & Ứng Dụng Hoàn Hảo Cho Nội Thất "
 date: 2025-03-30T10:31:07+00:00
-categories: ['Chia Sẻ']
+categories: ['chia-se']
 tags: ['gỗ óc chó']
 draft: false
 ---

@@ -11,9 +11,15 @@
           "name": "title",
           "type": "string"
         },
+		
         {
-          "title": "Description",
-          "name": "description",
+          "title": "title_seo",
+          "name": "title_seo",
+          "type": "string"
+        },
+        {
+          "title": "description_seo",
+          "name": "description_seo",
           "type": "string"
         },
         {
@@ -45,6 +51,11 @@
           "title": "Tags",
           "name": "tags",
           "type": "tags"
+        },
+		        {
+          "title": "Description",
+          "name": "description",
+          "type": "string"
         },
         {
           "title": "Categories",

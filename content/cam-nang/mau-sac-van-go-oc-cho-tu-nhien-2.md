@@ -1,7 +1,7 @@
 ---
 title: "Vẻ Đẹp Độc Đáo Của Màu Sắc & Vân Gỗ Óc Chó Tự Nhiên Trên Tủ Áo"
 date: 2025-04-14T16:54:21+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['tủ áo']
 draft: false
 ---

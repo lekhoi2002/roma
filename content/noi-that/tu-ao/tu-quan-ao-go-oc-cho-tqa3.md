@@ -1,8 +1,8 @@
 ---
 title: "Tủ quần áo gỗ óc chó TQA3"
 date: 2025-03-26T14:21:53+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/tu-ao/tu-quan-ao-go-oc-cho-tqa3-dep.webp
+tags: ['tu-ao']
 draft: false
 ---
 ![tủ áo gỗ óc chó tại hà nội](/img/tu-ao/tqa3/tu-quan-ao-go-oc-cho-tqa3-00-3.webp)

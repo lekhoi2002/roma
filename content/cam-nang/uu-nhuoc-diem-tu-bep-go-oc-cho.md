@@ -1,7 +1,7 @@
 ---
 title: "Ưu và Nhược Điểm Của Tủ Bếp Gỗ Óc Chó: Có Nên Đầu Tư?"
 date: 2025-04-14T16:55:19+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['tủ bếp']
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kinh Nghiệm 'Vàng' Khi Mua Bộ Bàn Ăn Gỗ Óc Chó (Kèm Chọn Ghế Ăn)"
 date: 2025-04-14T16:36:45+00:00
-categories: ['Kinh Nghiệm']
+categories: ['kinh-nghiem']
 tags: ['bàn ăn']
 draft: false
 ---

@@ -18,6 +18,7 @@ cascade:
   type: du-an 
 date: 2025-04-11T04:49:06.421Z
 lastmod: 2025-04-11T04:49:07.299Z
+type: categories
 ---
 
 ## Giới thiệu Tổng Quan về Sàn Gỗ Công Nghiệp

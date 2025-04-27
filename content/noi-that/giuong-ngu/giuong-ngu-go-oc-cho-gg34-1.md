@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG34-1"
 date: 2025-03-28T07:18:58+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg34-v1-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó ROMAX: Nét Sang Trọng và Đẳng Cấp Cho Phòng Ngủ Hiện Đại

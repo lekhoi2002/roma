@@ -1,7 +1,7 @@
 ---
 title: "Kinh Nghiệm Vàng Mua Sofa Gỗ Óc Chó Đúng Chuẩn, Tránh Sai Lầm"
 date: 2025-04-14T16:51:25+00:00
-categories: ['Kinh Nghiệm']
+categories: ['kinh-nghiem']
 tags: ['giường']
 draft: false
 ---

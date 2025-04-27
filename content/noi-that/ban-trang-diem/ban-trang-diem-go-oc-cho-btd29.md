@@ -1,8 +1,8 @@
 ---
 title: "Bàn trang điểm gỗ óc chó BTD29"
 date: 2025-03-28T07:07:26+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/ban-td/ban-trang-diem-go-oc-cho-btd29-dep.webp
+tags: ['ban-trang-diem']
 draft: false
 ---
 ![bàn trang điểm gỗ óc chó đẹp](/img/ban-td/btd29/ban-trang-diem-go-oc-cho-btd29-6.webp)

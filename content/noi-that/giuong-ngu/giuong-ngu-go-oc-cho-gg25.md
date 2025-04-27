@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG25"
 date: 2025-03-28T07:15:43+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg25-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó ROMAX: Tâm Điểm Sang Trọng Cho Phòng Ngủ Đẳng Cấp

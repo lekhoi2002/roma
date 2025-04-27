@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó gng10"
 date: 2025-03-26T08:47:13+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-ngu-go-oc-cho-gng10-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó ROMAX: Nét Đẹp Hiện Đại, Vững Chãi Từ Thiên Nhiên

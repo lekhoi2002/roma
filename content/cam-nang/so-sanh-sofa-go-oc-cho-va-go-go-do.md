@@ -1,7 +1,7 @@
 ---
 title: "So Sánh Sofa Gỗ Óc Chó và Gỗ Gõ Đỏ: Đâu Là Vua Nội Thất?"
 date: 2025-04-14T16:51:25+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['giường']
 draft: false
 ---

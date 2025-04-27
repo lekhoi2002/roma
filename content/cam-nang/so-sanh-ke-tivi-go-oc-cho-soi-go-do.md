@@ -1,7 +1,7 @@
 ---
 title: "So Sánh Kệ Tivi Gỗ Óc Chó Với Gỗ Sồi và Gỗ Gõ Đỏ: Nên Chọn Loại Nào?"
 date: 2025-04-14T16:53:31+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['kệ tivi']
 draft: false
 ---

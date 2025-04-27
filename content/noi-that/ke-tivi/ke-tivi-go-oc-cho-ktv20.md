@@ -1,8 +1,8 @@
 ---
 title: "Kệ tivi gỗ óc chó KTV20"
 date: 2025-03-28T06:19:26+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/ke-tivi/ke-ti-vi-go-oc-cho-ktv20-dep.webp
+tags: ['ke-tivi']
 draft: false
 ---
 ![kệ tivi gỗ óc chó đẹp](/img/ke-tivi/ktv20/ke-ti-vi-go-oc-cho-ktv20-1.webp)

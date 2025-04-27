@@ -1,8 +1,8 @@
 ---
 title: "Bàn ăn gỗ óc chó BA30"
 date: 2025-03-28T06:05:49+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/ban-an/ban-an-go-oc-cho-ba30-dep.webp
+tags: ['ban-an']
 draft: false
 ---
 ![bàn ăn gỗ óc chó](/img/ban-an/ba30/ban-an-go-oc-cho-ba30-1.webp)

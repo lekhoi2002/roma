@@ -1,8 +1,8 @@
 ---
 title: "Tủ bếp gỗ óc chó TB33"
 date: 2025-03-28T06:13:56+00:00
-categories: []
-tags: []
+categories: ['tu-bep']
+tags: ['tu-bep']
 draft: false
 ---
 ![tủ bếp gỗ óc chó tại hà nội](/img/tu-bep/tb33/tu-bep-go-oc-cho-tb33-1.webp)

@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó gng5"
 date: 2025-03-26T08:45:23+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-ngu-go-oc-cho-gng5-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Gỗ Óc Chó - Nâng Tầm Không Gian Nghỉ Ngơi Sang Trọng

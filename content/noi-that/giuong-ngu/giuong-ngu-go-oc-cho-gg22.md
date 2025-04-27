@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG22"
 date: 2025-03-28T07:14:41+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg22-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó – Biểu Tượng Của Sự Sang Trọng và Tiện Nghi

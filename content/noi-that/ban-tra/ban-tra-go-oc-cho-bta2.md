@@ -1,7 +1,7 @@
 ---
 title: "Bàn trà gỗ óc chó BTA2"
 date: 2025-03-26T14:24:43+00:00
-categories: []
+thumbnail: img/thumb/ban-tra/ban-tra-go-oc-cho-btra2-dep.webp
 tags: []
 draft: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Tủ quần áo gỗ óc chó TQA32"
 date: 2025-03-28T07:11:39+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/tu-ao/tu-quan-ao-go-oc-cho-tqa32-dep.webp
+tags: ['tu-ao']
 draft: false
 ---
 ![tủ áo gỗ tự nhiên óc chó](/img/tu-ao/tqa32/tu-quan-ao-go-oc-cho-tqa32-10.webp)

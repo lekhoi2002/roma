@@ -1,8 +1,8 @@
 ---
 title: "Tủ bếp gỗ óc chó TB20"
 date: 2025-03-28T06:10:29+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/tu-bep/tu-bep-go-oc-cho-tb20-dep.webp
+tags: ['tu-bep']
 draft: false
 ---
 ![tủ bếp gỗ tự nhiên óc chó đẹp](/img/tu-bep/tb20/tu-bep-go-oc-cho-tb20-1.webp)

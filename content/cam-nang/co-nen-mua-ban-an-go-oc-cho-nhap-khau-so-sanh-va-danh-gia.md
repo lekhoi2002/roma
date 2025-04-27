@@ -1,7 +1,7 @@
 ---
 title: "Có Nên Mua Bàn Ăn Gỗ Óc Chó Nhập Khẩu? So Sánh và Đánh Giá"
 date: 2025-04-14T16:09:12+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['gỗ óc chó']
 draft: false
 ---

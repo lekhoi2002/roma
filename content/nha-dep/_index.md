@@ -1,5 +1,6 @@
 ---
-author: Khôi Lê
 title: Nhà Đẹp
-nested: true
+title_seo: ""
+description_seo: ""
+type: categories
 ---

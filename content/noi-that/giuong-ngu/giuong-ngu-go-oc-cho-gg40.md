@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG40"
 date: 2025-03-28T07:20:37+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg40-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó ROMAX: Sự Giao Thoa Hoàn Hảo Giữa Hiện Đại và Sang Trọng

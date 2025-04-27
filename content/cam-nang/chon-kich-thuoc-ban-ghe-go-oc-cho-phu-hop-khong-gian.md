@@ -1,7 +1,7 @@
 ---
 title: "Chọn Kích Thước Bàn Ghế Gỗ Óc Chó Phù Hợp Với Không Gian Sống"
 date: 2025-04-14T16:42:50+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn ghế']
 draft: false
 ---

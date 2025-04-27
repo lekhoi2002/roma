@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó gng2"
 date: 2025-03-26T08:43:36+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-ngu-go-oc-cho-gng2-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Giường Ngủ Gỗ Óc Chó Mã 2: Đẳng Cấp Tinh Giản, Nâng Tầm Giấc Ngủ

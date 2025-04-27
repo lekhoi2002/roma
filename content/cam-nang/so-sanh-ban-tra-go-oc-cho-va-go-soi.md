@@ -1,7 +1,7 @@
 ---
 title: "So Sánh Bàn Trà Gỗ Óc Chó và Gỗ Sồi: Lựa Chọn Nào Tối Ưu?"
 date: 2025-04-14T16:44:06+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn trà']
 draft: false
 ---

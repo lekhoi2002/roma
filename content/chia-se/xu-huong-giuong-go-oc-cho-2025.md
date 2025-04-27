@@ -1,7 +1,7 @@
 ---
 title: "Xu Hướng Thiết Kế Giường Gỗ Óc Chó [2025]: Cập Nhật Mẫu Mới Nhất"
 date: 2025-04-14T16:49:53+00:00
-categories: ['Chia Sẻ']
+categories: ['chia-se']
 tags: ['giường']
 draft: false
 ---

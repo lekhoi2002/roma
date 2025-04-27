@@ -1,8 +1,8 @@
 ---
 title: "Giường ngủ gỗ óc chó GG37"
 date: 2025-03-28T07:19:56+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg37-dep.webp
+tags: ['giuong-ngu']
 draft: false
 ---
 ## Tuyệt Tác Giường Ngủ Gỗ Óc Chó - Nâng Tầm Không Gian Phòng Ngủ

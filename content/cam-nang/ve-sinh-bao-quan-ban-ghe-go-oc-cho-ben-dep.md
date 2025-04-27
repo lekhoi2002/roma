@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Vệ Sinh và Bảo Quản Bàn Ghế Gỗ Óc Chó Luôn Bền Đẹp Như Mới"
 date: 2025-04-14T16:42:50+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn ghế']
 draft: false
 ---

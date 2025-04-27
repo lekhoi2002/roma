@@ -1,7 +1,7 @@
 ---
 title: "Giá Gỗ Óc Chó Bao Nhiêu 1m3? Bảng Giá Cập Nhật 2025"
 date: 2025-04-13T14:24:39+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['gỗ óc chó']
 draft: false
 ---

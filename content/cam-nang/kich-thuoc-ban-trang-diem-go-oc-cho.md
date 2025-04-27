@@ -1,7 +1,7 @@
 ---
 title: "Kích Thước Bàn Trang Điểm Gỗ Óc Chó Chuẩn & Cách Chọn Phù Hợp Phòng Ngủ"
 date: 2025-04-14T16:45:59+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn trang điểm']
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hướng Dẫn Vệ Sinh & Bảo Quản Kệ Tivi Gỗ Óc Chó Luôn Bền Đẹp Như Mới"
 date: 2025-04-14T16:53:31+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['kệ tivi']
 draft: false
 ---

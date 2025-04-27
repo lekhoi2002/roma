@@ -1,7 +1,7 @@
 ---
 title: "Gỗ Óc Chó và Gỗ Gõ Đỏ: Cuộc Đọ Sức Của Hai Ông Vua Nội Thất Gỗ"
 date: 2025-04-14T16:42:50+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn ghế']
 draft: false
 ---

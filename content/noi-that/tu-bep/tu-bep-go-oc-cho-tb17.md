@@ -1,8 +1,8 @@
 ---
 title: "Tủ bếp gỗ óc chó TB17"
 date: 2025-03-28T06:09:26+00:00
-categories: []
-tags: []
+thumbnail: img/thumb/tu-bep/tu-bep-go-oc-cho-tb17-dep.webp
+tags: ['tu-bep']
 draft: false
 ---
 ![tủ bếp gỗ óc chó tại hà nội](/img/tu-bep/tb17/tu-bep-go-oc-cho-tb17-1.webp)

@@ -1,7 +1,7 @@
 ---
 title: "Khoảng Giá Bàn Trang Điểm Gỗ Óc Chó Bao Nhiêu? Yếu Tố Ảnh Hưởng Giá"
 date: 2025-04-14T16:45:59+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['bàn trang điểm']
 draft: false
 ---

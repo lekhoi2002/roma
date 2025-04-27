@@ -1,7 +1,7 @@
 ---
 title: "Khám Phá Vẻ Đẹp Đa Dạng: Các Kiểu Dáng, Màu Sắc & Vân Gỗ Óc Chó Cho Giường Ngủ"
 date: 2025-04-14T16:49:53+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['giường']
 draft: false
 ---

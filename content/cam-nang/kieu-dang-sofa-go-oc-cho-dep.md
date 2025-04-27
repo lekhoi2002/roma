@@ -1,7 +1,7 @@
 ---
 title: "Top 5+ Kiểu Dáng Sofa Gỗ Óc Chó Đẹp Sang Trọng Xu Hướng 2025"
 date: 2025-04-14T16:51:25+00:00
-categories: ['Cam Nang']
+categories: ['cam-nang']
 tags: ['giường']
 draft: false
 ---

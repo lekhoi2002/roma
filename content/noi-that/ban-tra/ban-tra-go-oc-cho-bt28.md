@@ -1,7 +1,7 @@
 ---
 title: "Bàn trà gỗ óc chó BT28"
 date: 2025-03-28T07:05:34+00:00
-categories: []
+thumbnail: img/thumb/ban-tra/ban-tra-go-oc-cho-bt28-dep.webp
 tags: []
 draft: false
 ---
