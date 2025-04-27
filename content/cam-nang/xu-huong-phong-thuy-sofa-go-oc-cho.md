@@ -1,7 +1,6 @@
 ---
 title: "Xu Hướng Sofa Gỗ Óc Chó 2025 & Ý Nghĩa Phong Thủy Có Thể Bạn Chưa Biết"
 date: 2025-04-14T16:51:25+00:00
-slug: "xu-huong-phong-thuy-sofa-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['giường']
 draft: false

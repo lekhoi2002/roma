@@ -1,7 +1,6 @@
 ---
 title: "Xu Hướng Bàn Ăn Gỗ Óc Chó [2025]: Những Thiết Kế Dẫn Đầu Xu Thế"
 date: 2025-04-14T16:36:45+00:00
-slug: "xu-huong-ban-an-go-oc-cho-2025-nhung-thiet-ke-dan-dau-xu-the"
 categories: ['Cam Nang']
 tags: ['bàn ăn']
 draft: false

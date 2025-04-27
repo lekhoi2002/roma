@@ -1,7 +1,6 @@
 ---
 title: "Kinh Nghiệm Vàng Khi Mua Bàn Ghế Gỗ Óc Chó: Hỏi Gì? Xem Gì? Chọn Ở Đâu?"
 date: 2025-04-14T16:42:50+00:00
-slug: "kinh-nghiem-mua-ban-ghe-go-oc-cho-chat-luong"
 categories: ['Kinh Nghiệm']
 tags: ['bàn ghế']
 draft: false

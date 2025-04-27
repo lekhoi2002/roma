@@ -1,23 +1,9 @@
 ---
 title: "Thiết Kế Biệt thự DA28"
 date: 2025-04-03T05:09:11+00:00
-slug: "du-an-da-28"
 categories: []
 tags: []
 draft: false
-_edit_last: "1"
-_thumbnail_id: "593"
-_du_an_chu_dau_tu: "updating"
-_du_an_dia_chi_thi_cong: "updating"
-_du_an_loai_hinh: "updating"
-_du_an_phong_cach_thiet_ke: "updating"
-_du_an_vat_lieu_chinh: "Gỗ tự nhiên óc chó"
-_du_an_don_vi_thiet_ke: "Nội Thất ROMAX"
-_du_an_tong_dien_tich_xd: "updating"
-_du_an_nam_thuc_hien: "2024"
-rank_math_seo_score: "17"
-rank_math_internal_links_processed: "1"
-rank_math_primary_du_an_category: "0"
 ---
 # Biệt Thự Starlake Tây Hồ Tây: Tuyệt Tác Xa Hoa Với Nội Thất Gỗ Óc Chó Độc Bản Từ ROMAX
 
@@ -84,17 +70,17 @@ Biệt thự Starlake của **Anh Tuấn**, dưới bàn tay tài hoa của **RO
 
 **Hãy để ROMAX biến giấc mơ về một không gian sống hoàn hảo của bạn thành hiện thực. Liên hệ ngay để được tư vấn về các giải pháp nội thất gỗ óc chó đẳng cấp nhất!**
 
-![bàn trà gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/ban-tra-go-oc-cho-bt28-2-1280x960.webp)
-![bàn trà gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/ban-tra-go-oc-cho-bt28-1-1280x960.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf28-2-1280x960.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf28-1-1280x720.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf28-7-1280x720.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf28-6-1280x960.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf28-5-1280x960.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf28-4-1280x960.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf28-3-1280x960.webp)
-![tủ bếp gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/tu-bep-go-oc-cho-tb28-2-1280x960.webp)
-![tủ gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/tu-bep-go-oc-cho-tb28-1-1280x960.webp)
-![bàn ăn gỗ có chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba28-2-1280x720.webp)
-![bàn ăn gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba28-3-1280x720.webp)
-![bàn ăn gỗ tựu nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba28-1-1280x960.webp)
+![bàn trà gỗ tự nhiên óc chó](/img/ban-tra/bt28/ban-tra-go-oc-cho-bt28-2.webp)
+![bàn trà gỗ óc chó đẹp](/img/ban-tra/bt28/ban-tra-go-oc-cho-bt28-1.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf28/sofa-go-oc-cho-sf28-2.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf28/sofa-go-oc-cho-sf28-1.webp)
+![sofa gỗ óc chó](/img/sofa/sf28/sofa-go-oc-cho-sf28-7.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf28/sofa-go-oc-cho-sf28-6.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf28/sofa-go-oc-cho-sf28-5.webp)
+![sofa gỗ óc chó](/img/sofa/sf28/sofa-go-oc-cho-sf28-4.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf28/sofa-go-oc-cho-sf28-3.webp)
+![tủ bếp gỗ óc chó đẹp](/img/tu-bep/tb28/tu-bep-go-oc-cho-tb28-2.webp)
+![tủ gỗ tự nhiên óc chó](/img/tu-bep/tb28/tu-bep-go-oc-cho-tb28-1.webp)
+![bàn ăn gỗ có chó](/img/ban-an/ba28/ban-an-go-oc-cho-ba28-2.webp)
+![bàn ăn gỗ óc chó đẹp](/img/ban-an/ba28/ban-an-go-oc-cho-ba28-3.webp)
+![bàn ăn gỗ tựu nhiên óc chó](/img/ban-an/ba28/ban-an-go-oc-cho-ba28-1.webp)

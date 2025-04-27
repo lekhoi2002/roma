@@ -1,23 +1,9 @@
 ---
 title: "DA-29 Thiết Kế Penhouse"
 date: 2025-04-03T05:08:01+00:00
-slug: "du-an-da-29"
 categories: []
 tags: []
 draft: false
-_edit_last: "1"
-_thumbnail_id: "675"
-_du_an_chu_dau_tu: "updating"
-_du_an_dia_chi_thi_cong: "updating"
-_du_an_loai_hinh: "updating"
-_du_an_phong_cach_thiet_ke: "updating"
-_du_an_vat_lieu_chinh: "Gỗ tự nhiên óc chó"
-_du_an_don_vi_thiet_ke: "Nội Thất ROMAX"
-_du_an_tong_dien_tich_xd: "updating"
-_du_an_nam_thuc_hien: "2024"
-rank_math_seo_score: "13"
-rank_math_internal_links_processed: "1"
-rank_math_primary_du_an_category: "0"
 ---
 # Tuyệt Tác Penthouse Keangnam Của Chị Hà: Dấu Ấn Đẳng Cấp Từ Nội Thất Gỗ Óc Chó ROMAX
 
@@ -80,19 +66,19 @@ Tuyệt tác Penthouse Keangnam của Chị Hà là một minh chứng sống đ
 
 **Hãy để ROMAX đồng hành cùng bạn trên hành trình kiến tạo không gian sống mơ ước, nơi mỗi chi tiết nội thất gỗ óc chó đều là một tác phẩm nghệ thuật. Liên hệ với chúng tôi ngay hôm nay để nhận tư vấn chuyên sâu!**
 
-![giường gỗ óc chó tự nhiên óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg29-29-1280x1024.webp)
-![giường gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg29-28-1280x1024.webp)
-![giường gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg29-34-1280x1024.webp)
-![giường gỗ óc chó tự nhiên óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg29-33-1280x1024.webp)
-![giường gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg29-32-1280x1024.webp)
-![giường gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg29-31-1280x1024.webp)
-![giường gỗ óc chó tự nhiên óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg29-30-1280x1024.webp)
-![tủ áo gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/tu-quan-ao-go-oc-cho-tqa29-8-1280x1024.webp)
-![tủ quần áo gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/tu-quan-ao-go-oc-cho-tqa29-7-1280x996.webp)
-![bàn trang điểm gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/ban-trang-diem-go-oc-cho-btd29-7-1280x1024.webp)
-![bàn trang điểm gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/ban-trang-diem-go-oc-cho-btd29-6-1280x1024.webp)
-![tủ bếp gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/tu-bep-go-oc-cho-tb29-2-1280x726.webp)
-![tủ gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/tu-bep-go-oc-cho-tb29-1-1280x726.webp)
-![bàn ăn gỗ tựu nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba29-3-1280x731.webp)
-![bàn ăn gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba29-2-1280x726.webp)
-![bàn ăn gỗ có chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba29-1-1280x726.webp)
+![giường gỗ óc chó tự nhiên óc chó đẹp](/img/giuong/gg29/giuong-go-oc-cho-gg29-29.webp)
+![giường gỗ tự nhiên óc chó](/img/giuong/gg29/giuong-go-oc-cho-gg29-28.webp)
+![giường gỗ óc chó](/img/giuong/gg29/giuong-go-oc-cho-gg29-34.webp)
+![giường gỗ óc chó tự nhiên óc chó đẹp](/img/giuong/gg29/giuong-go-oc-cho-gg29-33.webp)
+![giường gỗ tự nhiên óc chó](/img/giuong/gg29/giuong-go-oc-cho-gg29-32.webp)
+![giường gỗ óc chó](/img/giuong/gg29/giuong-go-oc-cho-gg29-31.webp)
+![giường gỗ óc chó tự nhiên óc chó đẹp](/img/giuong/gg29/giuong-go-oc-cho-gg29-30.webp)
+![tủ áo gỗ óc chó đẹp](/img/tu-ao/tqa29/tu-quan-ao-go-oc-cho-tqa29-8.webp)
+![tủ quần áo gỗ óc chó](/img/tu-ao/tqa29/tu-quan-ao-go-oc-cho-tqa29-7.webp)
+![bàn trang điểm gỗ óc chó đẹp](/img/ban-td/btd29/ban-trang-diem-go-oc-cho-btd29-7.webp)
+![bàn trang điểm gỗ tự nhiên óc chó](/img/ban-td/btd29/ban-trang-diem-go-oc-cho-btd29-6.webp)
+![tủ bếp gỗ óc chó đẹp](/img/tu-bep/tb29/tu-bep-go-oc-cho-tb29-2.webp)
+![tủ gỗ tự nhiên óc chó](/img/tu-bep/tb29/tu-bep-go-oc-cho-tb29-1.webp)
+![bàn ăn gỗ tựu nhiên óc chó](/img/ban-an/ba29/ban-an-go-oc-cho-ba29-3.webp)
+![bàn ăn gỗ óc chó đẹp](/img/ban-an/ba29/ban-an-go-oc-cho-ba29-2.webp)
+![bàn ăn gỗ có chó](/img/ban-an/ba29/ban-an-go-oc-cho-ba29-1.webp)

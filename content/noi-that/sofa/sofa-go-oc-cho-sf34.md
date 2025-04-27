@@ -1,20 +1,9 @@
 ---
 title: "Sofa gỗ óc chó SF34"
 date: 2025-03-28T06:34:15+00:00
-slug: "sofa-go-oc-cho-sf34"
 categories: []
 tags: []
 draft: false
-_edit_last: "2"
-_thumbnail_id: "622"
-_noi_that_chat_lieu: "Gỗ tự nhiên óc chó, Gỗ tự nhiên sồi mỹ"
-_noi_that_mau_sac: "Vân, màu gỗ tự nhiên"
-_noi_that_bao_hanh: "36 tháng"
-_noi_that_tinh_trang: "Còn hàng"
-rank_math_analytic_object_id: "52"
-rank_math_seo_score: "21"
-rank_math_internal_links_processed: "1"
-rank_math_primary_noi_that_category: "0"
 ---
 ## Bộ Sofa Gỗ Óc Chó - Tuyệt Tác Nội Thất Cho Không Gian Sống Đẳng Cấp
 
@@ -58,6 +47,6 @@ Bộ sofa gỗ óc chó trong không gian này không chỉ là một món đồ
 
 Để được tư vấn chi tiết và trải nghiệm sản phẩm trực tiếp, vui lòng liên hệ Hotline: **0972612669** hoặc ghé thăm **Xưởng Gỗ Óc Chó ROMAX**. Chúng tôi luôn sẵn lòng đón tiếp!
 
-![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf34-1-1280x640.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf34-2-1280x771.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf34-3-1280x853.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf34/sofa-go-oc-cho-sf34-1.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf34/sofa-go-oc-cho-sf34-2.webp)
+![sofa gỗ óc chó tại hà nội](/img/sofa/sf34/sofa-go-oc-cho-sf34-3.webp)

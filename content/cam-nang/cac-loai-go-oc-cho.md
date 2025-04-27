@@ -1,7 +1,6 @@
 ---
 title: "Phân Loại Gỗ Óc Chó: Các Loại Phổ Biến & Cách Nhận Biết"
 date: 2025-04-13T14:20:19+00:00
-slug: "cac-loai-go-oc-cho"
 tags: ['gỗ óc chó']
 draft: false
 ---

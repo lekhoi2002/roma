@@ -1,7 +1,6 @@
 ---
 title: "Khám Phá Các Kiểu Dáng Bàn Trà Gỗ Óc Chó Đẹp Nhất (Tròn, Vuông, CN,...)"
 date: 2025-04-14T16:44:06+00:00
-slug: "kieu-dang-ban-tra-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['bàn trà']
 draft: false

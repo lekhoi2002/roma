@@ -1,7 +1,6 @@
 ---
 title: "Tổng Hợp Các Kiểu Dáng Kệ Tivi Gỗ Óc Chó Phổ Biến Nhất Hiện Nay"
 date: 2025-04-14T16:53:31+00:00
-slug: "cac-kieu-dang-ke-tivi-go-oc-cho-pho-bien"
 tags: ['kệ tivi']
 draft: false
 ---

@@ -1,17 +1,9 @@
 ---
 title: "Giường ngủ gỗ óc chó GG30"
 date: 2025-03-28T07:17:30+00:00
-slug: "giuong-ngu-go-oc-cho-gg30"
 categories: []
 tags: []
 draft: false
-_edit_last: "1"
-_thumbnail_id: "728"
-_noi_that_chat_lieu: "Gỗ tự nhiên óc chó, Gỗ tự nhiên sồi mỹ"
-_noi_that_mau_sac: "Vân, màu gỗ tự nhiên"
-_noi_that_bao_hanh: "36 tháng"
-_noi_that_tinh_trang: "Còn hàng"
-rank_math_analytic_object_id: "24"
 ---
 ![giường ngủ gỗ óc chó tại hà nội](/img/giuong/gg30/giuong-go-oc-cho-gg30-35.webp)
 ![giường ngủ gỗ tự nhiên óc chó](/img/giuong/gg30/giuong-go-oc-cho-gg30-36.webp)

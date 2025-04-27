@@ -1,7 +1,6 @@
 ---
 title: "So Sánh Sofa Gỗ Óc Chó và Gỗ Sồi: Nên Chọn Loại Nào Tốt Hơn?"
 date: 2025-04-14T16:51:25+00:00
-slug: "so-sanh-sofa-go-oc-cho-va-go-soi"
 categories: ['Cam Nang']
 tags: ['giường']
 draft: false

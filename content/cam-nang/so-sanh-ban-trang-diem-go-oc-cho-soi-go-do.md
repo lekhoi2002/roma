@@ -1,7 +1,6 @@
 ---
 title: "So Sánh Bàn Trang Điểm Gỗ Óc Chó Với Gỗ Sồi và Gỗ Gõ Đỏ: Nên Chọn Loại Nào?"
 date: 2025-04-14T16:45:59+00:00
-slug: "so-sanh-ban-trang-diem-go-oc-cho-soi-go-do"
 categories: ['Cam Nang']
 tags: ['bàn trang điểm']
 draft: false

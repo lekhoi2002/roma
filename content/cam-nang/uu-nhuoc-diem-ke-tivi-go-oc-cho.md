@@ -1,7 +1,6 @@
 ---
 title: "Ưu Và Nhược Điểm Của Kệ Tivi Gỗ Óc Chó: Có Thực Sự Đáng Đầu Tư?"
 date: 2025-04-14T16:53:31+00:00
-slug: "uu-nhuoc-diem-ke-tivi-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['kệ tivi']
 draft: false

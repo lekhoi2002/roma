@@ -1,7 +1,6 @@
 ---
 title: "So Sánh Bàn Ăn Gỗ Óc Chó Với Gỗ Sồi, Gõ Đỏ: Vật Liệu Nào Tốt Hơn?"
 date: 2025-04-14T16:36:45+00:00
-slug: "so-sanh-ban-an-go-oc-cho-voi-go-soi-go-do-vat-lieu-nao-tot-hon"
 categories: ['Cam Nang']
 tags: ['bàn ăn']
 draft: false

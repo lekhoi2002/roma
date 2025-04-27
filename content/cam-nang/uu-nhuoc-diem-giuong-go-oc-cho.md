@@ -1,7 +1,6 @@
 ---
 title: "Ưu Và Nhược Điểm Của Giường Gỗ Óc Chó: Phân Tích Chi Tiết Trước Khi Mua"
 date: 2025-04-14T16:49:53+00:00
-slug: "uu-nhuoc-diem-giuong-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['giường']
 draft: false

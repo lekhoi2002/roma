@@ -1,23 +1,9 @@
 ---
 title: "Thiết Kế Biệt Thự DA26"
 date: 2025-04-03T05:09:48+00:00
-slug: "du-an-da-26"
 categories: []
 tags: []
 draft: false
-_edit_last: "1"
-_thumbnail_id: "582"
-_du_an_chu_dau_tu: "updating"
-_du_an_dia_chi_thi_cong: "updating"
-_du_an_loai_hinh: "updating"
-_du_an_phong_cach_thiet_ke: "updating"
-_du_an_vat_lieu_chinh: "Gỗ tự nhiên óc chó"
-_du_an_don_vi_thiet_ke: "Nội Thất ROMAX"
-_du_an_tong_dien_tich_xd: "updating"
-_du_an_nam_thuc_hien: "2024"
-rank_math_seo_score: "16"
-rank_math_internal_links_processed: "1"
-rank_math_primary_du_an_category: "0"
 ---
 # Kiệt Tác Gỗ Óc Chó Tại Biệt Thự Vinhomes Riverside: Dấu Ấn Đẳng Cấp Từ ROMAX
 
@@ -82,13 +68,13 @@ Dự án nội thất gỗ óc chó tại biệt thự Vinhomes Riverside của 
 
 **Bạn đang tìm kiếm giải pháp nội thất gỗ óc chó hoàn hảo cho tổ ấm của mình? Hãy liên hệ ngay với ROMAX để được tư vấn chi tiết và trải nghiệm dịch vụ thiết kế - thi công chuyên nghiệp hàng đầu!**
 
-![giường gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg26-27-1280x853.webp)
-![giường gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg26-26-1280x853.webp)
-![giường gỗ óc chó tự nhiên óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg26-25-1280x853.webp)
-![tủ áo gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/tu-quan-ao-go-oc-cho-tqa26-6-1280x853.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf26-3-1280x720.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf26-2-1280x720.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf26-1-1280x720.webp)
-![tủ bếp gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/tu-bep-go-oc-cho-tb26-1-1280x720.webp)
-![bàn ăn gỗ có chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba26-2-1280x720.webp)
-![bàn ăn gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba26-1-1280x720.webp)
+![giường gỗ óc chó](/img/giuong/gg26/giuong-go-oc-cho-gg26-27.webp)
+![giường gỗ tự nhiên óc chó](/img/giuong/gg26/giuong-go-oc-cho-gg26-26.webp)
+![giường gỗ óc chó tự nhiên óc chó đẹp](/img/giuong/gg26/giuong-go-oc-cho-gg26-25.webp)
+![tủ áo gỗ óc chó đẹp](/img/tu-ao/tqa26/tu-quan-ao-go-oc-cho-tqa26-6.webp)
+![sofa gỗ óc chó](/img/sofa/sf26/sofa-go-oc-cho-sf26-3.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf26/sofa-go-oc-cho-sf26-2.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf26/sofa-go-oc-cho-sf26-1.webp)
+![tủ bếp gỗ óc chó](/img/tu-bep/tb26/tu-bep-go-oc-cho-tb26-1.webp)
+![bàn ăn gỗ có chó](/img/ban-an/ba26/ban-an-go-oc-cho-ba26-2.webp)
+![bàn ăn gỗ óc chó đẹp](/img/ban-an/ba26/ban-an-go-oc-cho-ba26-1.webp)

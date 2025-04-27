@@ -1,7 +1,6 @@
 ---
 title: "So Sánh Giường Gỗ Óc Chó Với Gỗ Sồi và Gỗ Gõ Đỏ: Lựa Chọn Nào Tối Ưu?"
 date: 2025-04-14T16:49:53+00:00
-slug: "so-sanh-giuong-go-oc-cho-soi-go-do"
 categories: ['Cam Nang']
 tags: ['giường']
 draft: false

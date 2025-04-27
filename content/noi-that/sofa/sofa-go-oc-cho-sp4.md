@@ -1,19 +1,9 @@
 ---
 title: "Sofa gỗ óc chó sp4"
 date: 2025-03-26T06:01:48+00:00
-slug: "sofa-go-oc-cho-sp4"
 categories: []
 tags: []
 draft: false
-_edit_last: "2"
-_thumbnail_id: "186"
-_noi_that_chat_lieu: "Gỗ tự nhiên óc chó, Gỗ tự nhiên sồi mỹ"
-_noi_that_mau_sac: "Vân, màu gỗ tự nhiên"
-_noi_that_bao_hanh: "36 tháng"
-_noi_that_tinh_trang: "Còn hàng"
-rank_math_seo_score: "21"
-rank_math_internal_links_processed: "1"
-rank_math_primary_noi_that_category: "0"
 ---
 ### **Bộ Sofa Gỗ Óc Chó ROMAX: Tâm Điểm Sang Trọng Cho Không Gian Sống Đẳng Cấp**
 
@@ -52,4 +42,8 @@ Ngoài ra, đừng quên khám phá các sản phẩm nội thất gỗ óc chó
 
 Để được tư vấn chi tiết và trải nghiệm sản phẩm trực tiếp, vui lòng liên hệ Hotline: **0972 612 669** hoặc ghé thăm **Xưởng Gỗ Óc Chó ROMAX**. Chúng tôi luôn sẵn lòng đón tiếp và phục vụ quý khách!
 
-[![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf4-00-23-1280x854.webp)](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf4-00-23.webp) [![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf4-00-24-1280x854.webp)](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf4-00-24.webp) [![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf4-00-25-1280x1280.webp)](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf4-00-25.webp) [![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf4-00-26-1280x1280.webp)](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf4-00-26.webp) [![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf4-00-27-1280x854.webp)](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf4-00-27.webp)
+![sofa gỗ óc chó](/img/sofa/sf4/sofa-go-oc-cho-sf4-00-23.webp)
+![sofa gỗ óc chó tại hà nội](/img/sofa/sf4/sofa-go-oc-cho-sf4-00-24.webp)
+![sofa gỗ tự nhiên óc chó đẹp](/img/sofa/sf4/sofa-go-oc-cho-sf4-00-25.webp)
+![sofa gỗ óc chó tại hà nội](/img/sofa/sf4/sofa-go-oc-cho-sf4-00-26.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf4/sofa-go-oc-cho-sf4-00-27.webp)

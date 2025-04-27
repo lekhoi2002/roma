@@ -1,7 +1,6 @@
 ---
 title: "Ưu và Nhược Điểm Của Bàn Trà Gỗ Óc Chó: Có Thực Sự Bền Đẹp?"
 date: 2025-04-14T16:44:06+00:00
-slug: "uu-nhuoc-diem-ban-tra-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['bàn trà']
 draft: false

@@ -1,7 +1,6 @@
 ---
 title: "Hướng Dẫn Vệ Sinh và Bảo Quản Tủ Bếp Gỗ Óc Chó Luôn Bền Đẹp Như Mới"
 date: 2025-04-14T16:55:19+00:00
-slug: "ve-sinh-bao-quan-tu-bep-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['tủ bếp']
 draft: false

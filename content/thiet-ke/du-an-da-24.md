@@ -1,23 +1,9 @@
 ---
 title: "DA24  Thiết Kế Biệt Thự"
 date: 2025-04-03T05:26:34+00:00
-slug: "du-an-da-24"
 categories: []
 tags: []
 draft: false
-_edit_last: "1"
-_thumbnail_id: "574"
-_du_an_chu_dau_tu: "updating"
-_du_an_dia_chi_thi_cong: "updating"
-_du_an_loai_hinh: "updating"
-_du_an_phong_cach_thiet_ke: "updating"
-_du_an_vat_lieu_chinh: "Gỗ tự nhiên óc chó"
-_du_an_don_vi_thiet_ke: "Nội Thất ROMAX"
-_du_an_tong_dien_tich_xd: "updating"
-_du_an_nam_thuc_hien: "2024"
-rank_math_seo_score: "14"
-rank_math_internal_links_processed: "1"
-rank_math_primary_du_an_category: "0"
 ---
 # Biệt Thự Ciputra Của Anh Tú: Tuyệt Tác Art Deco Giao Thoa Cùng Gỗ Óc Chó Đỉnh Cao Bởi ROMAX
 
@@ -85,14 +71,14 @@ Biệt thự Ciputra của Anh Tú, dưới sự kiến tạo của ROMAX, đã 
 
 **Hãy liên hệ với ROMAX ngay hôm nay để bắt đầu hành trình kiến tạo không gian sống đẳng cấp, nơi gỗ óc chó kể câu chuyện về phong cách và vị thế của riêng bạn!**
 
-![giường gỗ óc chó tự nhiên óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg24-19-1280x720.webp)
-![giường gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg24-18-1280x720.webp)
-![giường gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg24-17-1280x925.webp)
-![giường gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg24-16-1280x720.webp)
-![giường gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg24-15-1280x720.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf24-2-1280x975.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf24-1-1280x720.webp)
-![tủ gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/tu-bep-go-oc-cho-tb24-1-1280x1280.webp)
-![bàn ăn gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba24-3-1280x975.webp)
-![bàn ăn gỗ có chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba24-2-1280x975.webp)
-![bàn ăn gỗ tựu nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba24-1-1280x975.webp)
+![giường gỗ óc chó tự nhiên óc chó đẹp](/img/giuong/gg24/giuong-go-oc-cho-gg24-19.webp)
+![giường gỗ tự nhiên óc chó](/img/giuong/gg24/giuong-go-oc-cho-gg24-18.webp)
+![giường gỗ óc chó đẹp](/img/giuong/gg24/giuong-go-oc-cho-gg24-17.webp)
+![giường gỗ óc chó](/img/giuong/gg24/giuong-go-oc-cho-gg24-16.webp)
+![giường gỗ tự nhiên óc chó](/img/giuong/gg24/giuong-go-oc-cho-gg24-15.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf24/sofa-go-oc-cho-sf24-2.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf24/sofa-go-oc-cho-sf24-1.webp)
+![tủ gỗ tự nhiên óc chó](/img/tu-bep/tb24/tu-bep-go-oc-cho-tb24-1.webp)
+![bàn ăn gỗ óc chó đẹp](/img/ban-an/ba24/ban-an-go-oc-cho-ba24-3.webp)
+![bàn ăn gỗ có chó](/img/ban-an/ba24/ban-an-go-oc-cho-ba24-2.webp)
+![bàn ăn gỗ tựu nhiên óc chó](/img/ban-an/ba24/ban-an-go-oc-cho-ba24-1.webp)

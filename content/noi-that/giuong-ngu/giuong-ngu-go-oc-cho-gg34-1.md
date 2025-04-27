@@ -1,21 +1,9 @@
 ---
 title: "Giường ngủ gỗ óc chó GG34-1"
 date: 2025-03-28T07:18:58+00:00
-slug: "giuong-ngu-go-oc-cho-gg34-1"
 categories: []
 tags: []
 draft: false
-_edit_last: "2"
-_thumbnail_id: "740"
-_noi_that_ma_san_pham: "GG34-1"
-_noi_that_chat_lieu: "Gỗ tự nhiên óc chó"
-_noi_that_mau_sac: "Vân, màu gỗ tự nhiên"
-_noi_that_bao_hanh: "36 tháng"
-_noi_that_tinh_trang: "Còn hàng"
-rank_math_analytic_object_id: "21"
-rank_math_seo_score: "18"
-rank_math_internal_links_processed: "1"
-rank_math_primary_noi_that_category: "0"
 ---
 ## Giường Ngủ Gỗ Óc Chó ROMAX: Nét Sang Trọng và Đẳng Cấp Cho Phòng Ngủ Hiện Đại
 

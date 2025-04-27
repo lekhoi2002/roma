@@ -1,7 +1,6 @@
 ---
 title: "Cập Nhật Xu Hướng Thiết Kế Kệ Tivi Gỗ Óc Chó Mới Nhất Năm 2025"
 date: 2025-04-14T16:53:31+00:00
-slug: "xu-huong-ke-tivi-go-oc-cho-2025"
 categories: ['Cam Nang']
 tags: ['kệ tivi']
 draft: false

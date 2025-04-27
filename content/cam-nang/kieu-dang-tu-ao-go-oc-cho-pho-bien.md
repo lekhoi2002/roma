@@ -1,7 +1,6 @@
 ---
 title: "Các Kiểu Dáng Tủ Áo Gỗ Óc Chó Đẹp & Phổ Biến Nhất Hiện Nay"
 date: 2025-04-14T16:54:21+00:00
-slug: "kieu-dang-tu-ao-go-oc-cho-pho-bien"
 categories: ['Cam Nang']
 tags: ['tủ áo']
 draft: false

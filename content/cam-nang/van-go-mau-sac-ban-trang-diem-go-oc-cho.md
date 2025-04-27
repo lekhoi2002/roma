@@ -1,7 +1,6 @@
 ---
 title: "Vân Gỗ và Màu Sắc Đặc Trưng Của Bàn Trang Điểm Gỗ Óc Chó Tự Nhiên"
 date: 2025-04-14T16:45:59+00:00
-slug: "van-go-mau-sac-ban-trang-diem-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['bàn trang điểm']
 draft: false

@@ -1,7 +1,6 @@
 ---
 title: "Ưu và Nhược Điểm Của Sofa Gỗ Óc Chó: Có Thực Sự Đáng Đầu Tư?"
 date: 2025-04-14T16:52:22+00:00
-slug: "uu-nhuoc-diem-sofa-go-oc-cho-2"
 categories: ['Cam Nang']
 tags: ['sofa']
 draft: false

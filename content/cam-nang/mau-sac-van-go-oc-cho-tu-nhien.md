@@ -1,7 +1,6 @@
 ---
 title: "Vẻ Đẹp Vượt Thời Gian: Khám Phá Màu Sắc & Vân Gỗ Óc Chó Tự Nhiên"
 date: 2025-04-14T16:53:31+00:00
-slug: "mau-sac-van-go-oc-cho-tu-nhien"
 categories: ['Cam Nang']
 tags: ['kệ tivi']
 draft: false

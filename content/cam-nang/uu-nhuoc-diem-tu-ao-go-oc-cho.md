@@ -1,7 +1,6 @@
 ---
 title: "Ưu Nhược Điểm Của Tủ Áo Gỗ Óc Chó: Có Nên Đầu Tư Cho Phòng Ngủ?"
 date: 2025-04-14T16:54:21+00:00
-slug: "uu-nhuoc-diem-tu-ao-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['tủ áo']
 draft: false

@@ -1,20 +1,9 @@
 ---
 title: "Giường ngủ gỗ óc chó GG25"
 date: 2025-03-28T07:15:43+00:00
-slug: "giuong-ngu-go-oc-cho-gg25"
 categories: []
 tags: []
 draft: false
-_edit_last: "2"
-_thumbnail_id: "712"
-_noi_that_chat_lieu: "Gỗ tự nhiên óc chó, Gỗ tự nhiên sồi mỹ"
-_noi_that_mau_sac: "Vân, màu gỗ tự nhiên"
-_noi_that_bao_hanh: "36 tháng"
-_noi_that_tinh_trang: "Còn hàng"
-rank_math_analytic_object_id: "27"
-rank_math_seo_score: "20"
-rank_math_internal_links_processed: "1"
-rank_math_primary_noi_that_category: "0"
 ---
 ## Giường Ngủ Gỗ Óc Chó ROMAX: Tâm Điểm Sang Trọng Cho Phòng Ngủ Đẳng Cấp
 

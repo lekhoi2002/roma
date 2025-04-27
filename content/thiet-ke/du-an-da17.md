@@ -1,23 +1,9 @@
 ---
 title: "Thiết Kế Biệt Thự"
 date: 2025-04-03T04:56:42+00:00
-slug: "du-an-da17"
 categories: []
 tags: []
 draft: false
-_edit_last: "1"
-_thumbnail_id: "543"
-_du_an_chu_dau_tu: "updating"
-_du_an_dia_chi_thi_cong: "updating"
-_du_an_loai_hinh: "Biệt Thự"
-_du_an_phong_cach_thiet_ke: "updating"
-_du_an_vat_lieu_chinh: "Gỗ tự nhiên óc chó"
-_du_an_don_vi_thiet_ke: "Nội Thất ROMAX"
-_du_an_tong_dien_tich_xd: "updating"
-_du_an_nam_thuc_hien: "2023"
-rank_math_seo_score: "13"
-rank_math_internal_links_processed: "1"
-rank_math_primary_du_an_category: "0"
 ---
 Trong nhịp sống hiện đại hối hả, ai cũng mong muốn tìm về một không gian sống lý tưởng, nơi không chỉ là tổ ấm mà còn thể hiện gu thẩm mỹ tinh tế và vị thế của gia chủ. Thấu hiểu được điều đó, ROMAX đã kiến tạo nên dự án nội thất gỗ óc chó đầy ấn tượng tại Biệt thự Vinhomes Riverside, dành tặng Anh Tuấn một không gian sống sang trọng, ấm cúng và vượt thời gian. Vẻ đẹp tự nhiên, đẳng cấp của gỗ óc chó đã được ROMAX thổi hồn vào từng chi tiết, mang đến một không gian sống hoàn mỹ, khẳng định dấu ấn cá nhân độc đáo của gia chủ.
 
@@ -75,18 +61,18 @@ Nếu bạn đang tìm kiếm một đơn vị thiết kế và thi công nội 
 
 **ROMAX - Kiến tạo không gian sống đẳng cấp**
 
-![bàn làm việc gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/ban-lam-viec-go-oc-cho-blv17-2-1280x853.webp)
-![bàn làm việc gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/ban-lam-viec-go-oc-cho-blv17-1-1280x853.webp)
-![bàn ăn gỗ có chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba17-3-1280x922.webp)
-![bàn ăn gỗ tựu nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba17-2-1280x922.webp)
-![bàn ăn gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba17-1-1280x922.webp)
-![tủ bếp gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/tu-bep-go-oc-cho-tb17-1-1280x859.webp)
-![kệ ti vi gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/ke-ti-vi-go-oc-cho-ktv17-1-1280x922.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf17-4-1280x917.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf17-3-1280x914.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf17-2-1280x922.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf17-1-1280x938.webp)
-![giường gỗ óc chó tự nhiên óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg17-3-1280x853.webp)
-![giường gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg17-2-1280x853.webp)
-![tủ quần áo gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/tu-quan-ao-go-oc-cho-tqa17-2-1280x853.webp)
-![tủ áo gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/tu-quan-ao-go-oc-cho-tqa17-1-1280x853.webp)
+![bàn làm việc gỗ tự nhiên óc chó](/img/ban-lv/blv17/ban-lam-viec-go-oc-cho-blv17-2.webp)
+![bàn làm việc gỗ óc chó](/img/ban-lv/blv17/ban-lam-viec-go-oc-cho-blv17-1.webp)
+![bàn ăn gỗ có chó](/img/ban-an/ba17/ban-an-go-oc-cho-ba17-3.webp)
+![bàn ăn gỗ tựu nhiên óc chó](/img/ban-an/ba17/ban-an-go-oc-cho-ba17-2.webp)
+![bàn ăn gỗ óc chó đẹp](/img/ban-an/ba17/ban-an-go-oc-cho-ba17-1.webp)
+![tủ bếp gỗ óc chó đẹp](/img/tu-bep/tb17/tu-bep-go-oc-cho-tb17-1.webp)
+![kệ ti vi gỗ óc chó](/img/ke-tivi/ktv17/ke-ti-vi-go-oc-cho-ktv17-1.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf17/sofa-go-oc-cho-sf17-4.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf17/sofa-go-oc-cho-sf17-3.webp)
+![sofa gỗ óc chó](/img/sofa/sf17/sofa-go-oc-cho-sf17-2.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf17/sofa-go-oc-cho-sf17-1.webp)
+![giường gỗ óc chó tự nhiên óc chó đẹp](/img/giuong/gg17/giuong-go-oc-cho-gg17-3.webp)
+![giường gỗ tự nhiên óc chó](/img/giuong/gg17/giuong-go-oc-cho-gg17-2.webp)
+![tủ quần áo gỗ óc chó](/img/tu-ao/tqa17/tu-quan-ao-go-oc-cho-tqa17-2.webp)
+![tủ áo gỗ óc chó đẹp](/img/tu-ao/tqa17/tu-quan-ao-go-oc-cho-tqa17-1.webp)

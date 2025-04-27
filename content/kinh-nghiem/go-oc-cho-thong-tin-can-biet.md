@@ -1,7 +1,6 @@
 ---
 title: "Gỗ Óc Chó: Tất Cả Những Gì Bạn Cần Biết (Nguồn Gốc, Đặc Tính, Giá )"
 date: 2025-04-13T13:46:32+00:00
-slug: "go-oc-cho-thong-tin-can-biet"
 categories: ['Kinh Nghiệm']
 tags: ['gỗ óc chó']
 draft: false

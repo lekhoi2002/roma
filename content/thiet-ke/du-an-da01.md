@@ -1,22 +1,9 @@
 ---
 title: "Thiết Kế Biệt Thự Gamuda Gardens Hoàng Mai"
 date: 2025-04-03T04:43:57+00:00
-slug: "du-an-da01"
 categories: []
 tags: []
 draft: false
-_edit_last: "2"
-_du_an_chu_dau_tu: "Anh Minh"
-_du_an_dia_chi_thi_cong: "Gamuda Gardens"
-_du_an_loai_hinh: "Biệt Thự"
-_du_an_vat_lieu_chinh: "Gỗ tự nhiên óc chó"
-_du_an_don_vi_thiet_ke: "ROMAX"
-_du_an_tong_dien_tich_xd: "250m2"
-_du_an_nam_thuc_hien: "2024"
-_thumbnail_id: "538"
-rank_math_seo_score: "12"
-rank_math_internal_links_processed: "1"
-rank_math_primary_du_an_category: "0"
 ---
 # Kiệt Tác Nội Thất Gỗ Óc Chó Tại Biệt Thự Gamuda Gardens: Dấu Ấn Đẳng Cấp Cùng ROMAX
 
@@ -63,23 +50,23 @@ Trong thế giới thiết kế nội thất đương đại, gỗ óc chó luô
 
 * Với quy mô và yêu cầu chất lượng khắt khe của dự án, thời gian thực hiện dự kiến (từ khâu hoàn thiện thiết kế chi tiết đến sản xuất và lắp đặt hoàn thiện tại công trình) là khoảng **3-4 tháng**. Tiến độ này thể hiện sự chuyên nghiệp, quy trình làm việc bài bản và khả năng quản lý dự án hiệu quả của đội ngũ **ROMAX**.
 
-![cửa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/cua-go-oc-cho-cg15-1-1280x960.webp)
-![cửa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/cua-go-oc-cho-cg15-2-1280x960.webp)
-![kệ ti vi gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/ke-ti-vi-go-oc-cho-ktv15-3-1280x960.webp)
-![kệ ti ti gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/ke-ti-vi-go-oc-cho-ktv15-2-1280x960.webp)
-![kệ ti vi gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/ke-ti-vi-go-oc-cho-ktv15-1-1280x960.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-5-1280x960.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-4-1280x960.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-3-1280x960.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-2-1280x960.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-13-1280x960.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-12-1280x960.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-11-1280x960.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-10-1280x960.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-9-1280x960.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-8-1280x896.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-7-1280x896.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf15-6-1280x960.webp)
+![cửa gỗ óc chó đẹp](/img/cua-go/cg15/cua-go-oc-cho-cg15-1.webp)
+![cửa gỗ tự nhiên óc chó](/img/cua-go/cg15/cua-go-oc-cho-cg15-2.webp)
+![kệ ti vi gỗ óc chó](/img/ke-tivi/ktv15/ke-ti-vi-go-oc-cho-ktv15-3.webp)
+![kệ ti ti gỗ tự nhiên óc chó](/img/ke-tivi/ktv15/ke-ti-vi-go-oc-cho-ktv15-2.webp)
+![kệ ti vi gỗ óc chó](/img/ke-tivi/ktv15/ke-ti-vi-go-oc-cho-ktv15-1.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf15/sofa-go-oc-cho-sf15-5.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf15/sofa-go-oc-cho-sf15-4.webp)
+![sofa gỗ óc chó](/img/sofa/sf15/sofa-go-oc-cho-sf15-3.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf15/sofa-go-oc-cho-sf15-2.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf15/sofa-go-oc-cho-sf15-13.webp)
+![sofa gỗ óc chó](/img/sofa/sf15/sofa-go-oc-cho-sf15-12.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf15/sofa-go-oc-cho-sf15-11.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf15/sofa-go-oc-cho-sf15-10.webp)
+![sofa gỗ óc chó](/img/sofa/sf15/sofa-go-oc-cho-sf15-9.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf15/sofa-go-oc-cho-sf15-8.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf15/sofa-go-oc-cho-sf15-7.webp)
+![sofa gỗ óc chó](/img/sofa/sf15/sofa-go-oc-cho-sf15-6.webp)
 
 Dự án thiết kế nội thất biệt thự Gamuda Gardens cho **Anh Minh** là minh chứng rõ ràng cho vẻ đẹp bất tử của gỗ óc chó khi được đặt trong một tổng thể thiết kế hài hòa và được chế tác bởi những người thợ tài hoa. Không gian sống không chỉ đáp ứng trọn vẹn công năng mà còn là một tác phẩm nghệ thuật, nơi mỗi chi tiết đều kể câu chuyện về sự sang trọng, tinh tế và đẳng cấp. **ROMAX** tự hào đã đồng hành cùng Anh Minh kiến tạo nên tổ ấm mơ ước, khẳng định năng lực và vị thế hàng đầu trong lĩnh vực thiết kế và thi công nội thất gỗ óc chó cao cấp.
 **Quý khách hàng mong muốn sở hữu không gian sống đẳng cấp với nội thất gỗ óc chó tinh xảo? Hãy liên hệ ngay với ROMAX để nhận được tư vấn chuyên sâu và giải pháp thiết kế tối ưu nhất!**

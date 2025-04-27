@@ -1,20 +1,9 @@
 ---
 title: "Sofa gỗ óc chó SF25"
 date: 2025-03-28T06:29:19+00:00
-slug: "sofa-go-oc-cho-sf25"
 categories: []
 tags: []
 draft: false
-_edit_last: "2"
-_thumbnail_id: "577"
-_noi_that_chat_lieu: "Gỗ tự nhiên óc chó, Gỗ tự nhiên sồi mỹ"
-_noi_that_mau_sac: "Vân, màu gỗ tự nhiên"
-_noi_that_bao_hanh: "36 tháng"
-_noi_that_tinh_trang: "Còn hàng"
-rank_math_analytic_object_id: "59"
-rank_math_seo_score: "21"
-rank_math_internal_links_processed: "1"
-rank_math_primary_noi_that_category: "0"
 ---
 #### **Vẻ Đẹp Độc Đáo Của Sofa Gỗ Óc Chó SF25**
 
@@ -54,6 +43,6 @@ Bộ sofa gỗ óc chó SF25 của **Xưởng Sản Xuất Gỗ ÓC Chó ROMAX**
 
 Hãy liên hệ ngay hotline **0972 612 669** hoặc ghé thăm trực tiếp **Xưởng Gỗ Óc Chó ROMAX** để được tư vấn chi tiết và trải nghiệm trực tiếp những sản phẩm nội thất gỗ óc chó đỉnh cao!
 
-![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf25-1-1280x720.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf25-2-1280x875.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf25-3-1280x900.webp)
+![sofa gỗ tự nhiên óc chó đẹp](/img/sofa/sf25/sofa-go-oc-cho-sf25-1.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf25/sofa-go-oc-cho-sf25-2.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf25/sofa-go-oc-cho-sf25-3.webp)

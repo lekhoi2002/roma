@@ -1,7 +1,6 @@
 ---
 title: "Kinh Nghiệm Vàng Khi Mua Bàn Trang Điểm Gỗ Óc Chó Bạn Cần Biết"
 date: 2025-04-14T16:45:59+00:00
-slug: "kinh-nghiem-mua-ban-trang-diem-go-oc-cho"
 categories: ['Kinh Nghiệm']
 tags: ['bàn trang điểm']
 draft: false

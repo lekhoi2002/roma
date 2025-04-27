@@ -1,7 +1,6 @@
 ---
 title: "Xu Hướng Thiết Kế Bàn Trang Điểm Gỗ Óc Chó Mới Nhất Không Thể Bỏ Lỡ"
 date: 2025-04-14T16:45:59+00:00
-slug: "xu-huong-ban-trang-diem-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['bàn trang điểm']
 draft: false

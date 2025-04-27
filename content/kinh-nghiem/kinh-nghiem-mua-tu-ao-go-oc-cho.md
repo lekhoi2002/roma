@@ -1,7 +1,6 @@
 ---
 title: "Kinh Nghiệm Mua Tủ Áo Gỗ Óc Chó Chất Lượng: Những Điều Cần Lưu Ý"
 date: 2025-04-14T16:54:21+00:00
-slug: "kinh-nghiem-mua-tu-ao-go-oc-cho"
 categories: ['Kinh Nghiệm']
 tags: ['tủ áo']
 draft: false

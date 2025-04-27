@@ -1,7 +1,6 @@
 ---
 title: "Ưu và Nhược Điểm Của Bàn Ghế Gỗ Óc Chó: Có Nên Đầu Tư?"
 date: 2025-04-14T16:42:50+00:00
-slug: "uu-nhuoc-diem-ban-ghe-go-oc-cho-co-nen-dau-tu"
 categories: ['Cam Nang']
 tags: ['bàn ghế']
 draft: false

@@ -1,7 +1,6 @@
 ---
 title: "Xu Hướng Bàn Trà Gỗ Óc Chó Hiện Đại: Thiết Kế Thông Minh & Độc Đáo"
 date: 2025-04-14T16:44:06+00:00
-slug: "xu-huong-ban-tra-go-oc-cho-hien-dai"
 categories: ['Cam Nang']
 tags: ['bàn trà']
 draft: false

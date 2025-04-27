@@ -1,15 +1,9 @@
 ---
 title: "Giường ngủ gỗ óc chó gng12"
 date: 2025-03-26T08:47:38+00:00
-slug: "giuong-ngu-go-oc-cho-gng12"
 categories: []
 tags: []
 draft: false
-_edit_last: "2"
-_thumbnail_id: "298"
-rank_math_seo_score: "9"
-rank_math_internal_links_processed: "1"
-rank_math_primary_noi_that_category: "0"
 ---
 ## Mẫu Giường Hiện Đại Mã GNG12
 

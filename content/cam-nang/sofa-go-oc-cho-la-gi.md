@@ -1,7 +1,6 @@
 ---
 title: "Sofa Gỗ Óc Chó Là Gì? Tại Sao Được Giới Thượng Lưu Ưa Chuộng?"
 date: 2025-04-14T16:51:25+00:00
-slug: "sofa-go-oc-cho-la-gi"
 categories: ['Cam Nang']
 tags: ['giường']
 draft: false

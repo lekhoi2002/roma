@@ -1,22 +1,9 @@
 ---
 title: "Thiết Kế Nội Thất Gỗ Óc Chó Tại Penthouse Keangnam"
 date: 2025-04-03T05:45:07+00:00
-slug: "du-an-da-32"
 categories: []
 tags: []
 draft: false
-_edit_last: "2"
-_thumbnail_id: "617"
-_du_an_chu_dau_tu: "Anh Khang"
-_du_an_dia_chi_thi_cong: "tại Keangnam Landmark 72"
-_du_an_loai_hinh: "Penthouse"
-_du_an_vat_lieu_chinh: "Gỗ Tự Nhiên Óc Chó"
-_du_an_don_vi_thiet_ke: "Romax"
-_du_an_tong_dien_tich_xd: "430m3"
-_du_an_nam_thuc_hien: "2023"
-rank_math_internal_links_processed: "1"
-rank_math_seo_score: "12"
-rank_math_primary_du_an_category: "0"
 ---
 *Giữa lòng thủ đô sôi động, nơi những tòa nhà vươn mình chạm tới mây xanh, căn penthouse tại Keangnam Landmark 72 của Anh Khang nổi bật như một biểu tượng của phong cách sống thượng lưu. Với mong muốn kiến tạo một tổ ấm không chỉ sang trọng, tiện nghi mà còn thể hiện dấu ấn cá nhân và gu thẩm mỹ tinh tế, Anh Khang đã tin tưởng lựa chọn ROMAX làm đơn vị đồng hành. Trái tim của không gian sống đỉnh cao này chính là vẻ đẹp ấm áp, sang trọng vượt thời gian của nội thất gỗ óc chó tự nhiên – một lựa chọn hoàn hảo được ROMAX hiện thực hóa một cách xuất sắc.*
 
@@ -62,20 +49,20 @@ Ngoài các yếu tố chính, dự án còn chú trọng đến các chi tiết
 **Kết luận:**
 Dự án thiết kế và thi công nội thất gỗ óc chó cho Penthouse của Anh Khang tại Keangnam không chỉ là một công trình nhà ở, mà còn là một tác phẩm nghệ thuật thể hiện đẳng cấp và gu thẩm mỹ tinh tế. Dưới bàn tay tài hoa và sự tận tâm của đội ngũ ROMAX, vẻ đẹp sang trọng, ấm áp và độc đáo của gỗ óc chó Bắc Mỹ đã được phát huy tối đa, hòa quyện cùng các vật liệu cao cấp khác tạo nên một không gian sống lý tưởng, trường tồn cùng thời gian. ROMAX tự hào đã kiến tạo nên một tổ ấm xứng tầm, đáp ứng trọn vẹn mọi mong muốn của gia chủ.
 **Bạn đang mơ ước về một không gian sống đẳng cấp với nội thất gỗ óc chó tinh xảo? Hãy liên hệ ngay với ROMAX để được tư vấn và biến ý tưởng của bạn thành hiện thực!**
-![giường gỗ óc chó tự nhiên óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg32-43-1280x914.webp)
-![giường gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg32-42-1280x914.webp)
-![giường gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg32-41-1280x914.webp)
-![giường gỗ óc chó tự nhiên óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/giuong-go-oc-cho-gg32-40-1280x914.webp)
-![tủ áo gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/tu-quan-ao-go-oc-cho-tqa32-11-1280x914.webp)
-![tủ quần áo gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/tu-quan-ao-go-oc-cho-tqa32-10-1280x914.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf32-6-1280x1024.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf32-5-1280x1024.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf32-4-1280x1024.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf32-3-1280x1024.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf32-2-1280x1024.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf32-1-1280x1024.webp)
-![tủ bếp gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/tu-bep-go-oc-cho-tb32-2-1280x1024.webp)
-![tủ gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/tu-bep-go-oc-cho-tb32-1-1280x1280.webp)
-![bàn ăn gỗ tựu nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba32-3-1280x1024.webp)
-![bàn ăn gỗ có chó](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba32-2-1280x1024.webp)
-![bàn ăn gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba32-1-1280x1024.webp)
+![giường gỗ óc chó tự nhiên óc chó đẹp](/img/giuong/gg32/giuong-go-oc-cho-gg32-43.webp)
+![giường gỗ óc chó](/img/giuong/gg32/giuong-go-oc-cho-gg32-42.webp)
+![giường gỗ tự nhiên óc chó](/img/giuong/gg32/giuong-go-oc-cho-gg32-41.webp)
+![giường gỗ óc chó tự nhiên óc chó đẹp](/img/giuong/gg32/giuong-go-oc-cho-gg32-40.webp)
+![tủ áo gỗ óc chó đẹp](/img/tu-ao/tqa32/tu-quan-ao-go-oc-cho-tqa32-11.webp)
+![tủ quần áo gỗ óc chó](/img/tu-ao/tqa32/tu-quan-ao-go-oc-cho-tqa32-10.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf32/sofa-go-oc-cho-sf32-6.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf32/sofa-go-oc-cho-sf32-5.webp)
+![sofa gỗ óc chó](/img/sofa/sf32/sofa-go-oc-cho-sf32-4.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf32/sofa-go-oc-cho-sf32-3.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf32/sofa-go-oc-cho-sf32-2.webp)
+![sofa gỗ óc chó](/img/sofa/sf32/sofa-go-oc-cho-sf32-1.webp)
+![tủ bếp gỗ óc chó đẹp](/img/tu-bep/tb32/tu-bep-go-oc-cho-tb32-2.webp)
+![tủ gỗ tự nhiên óc chó](/img/tu-bep/tb32/tu-bep-go-oc-cho-tb32-1.webp)
+![bàn ăn gỗ tựu nhiên óc chó](/img/ban-an/ba32/ban-an-go-oc-cho-ba32-3.webp)
+![bàn ăn gỗ có chó](/img/ban-an/ba32/ban-an-go-oc-cho-ba32-2.webp)
+![bàn ăn gỗ óc chó đẹp](/img/ban-an/ba32/ban-an-go-oc-cho-ba32-1.webp)

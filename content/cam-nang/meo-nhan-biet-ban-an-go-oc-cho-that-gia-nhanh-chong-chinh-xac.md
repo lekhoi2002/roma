@@ -1,7 +1,6 @@
 ---
 title: "Mẹo Nhận Biết Bàn Ăn Gỗ Óc Chó Thật Giả Nhanh Chóng & Chính Xác"
 date: 2025-04-14T16:36:45+00:00
-slug: "meo-nhan-biet-ban-an-go-oc-cho-that-gia-nhanh-chong-chinh-xac"
 categories: ['Cam Nang']
 tags: ['bàn ăn']
 draft: false

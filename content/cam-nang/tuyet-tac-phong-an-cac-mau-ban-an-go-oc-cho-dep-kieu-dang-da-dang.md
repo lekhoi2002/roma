@@ -1,7 +1,6 @@
 ---
 title: "Tuyệt Tác Phòng Ăn: Các Mẫu Bàn Ăn Gỗ Óc Chó Đẹp & Kiểu Dáng Đa Dạng"
 date: 2025-04-14T16:36:45+00:00
-slug: "tuyet-tac-phong-an-cac-mau-ban-an-go-oc-cho-dep-kieu-dang-da-dang"
 categories: ['Cam Nang']
 tags: ['bàn ăn']
 draft: false

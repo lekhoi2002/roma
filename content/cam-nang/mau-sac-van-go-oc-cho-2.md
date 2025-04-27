@@ -1,7 +1,6 @@
 ---
 title: "Màu Sắc & Vân Gỗ Óc Chó: Bí Mật Tạo Nên Vẻ Đẹp Độc Bản"
 date: 2025-04-14T16:52:22+00:00
-slug: "mau-sac-van-go-oc-cho-2"
 categories: ['Cam Nang']
 tags: ['sofa']
 draft: false

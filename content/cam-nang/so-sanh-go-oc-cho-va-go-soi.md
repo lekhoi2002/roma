@@ -1,7 +1,6 @@
 ---
 title: "So Sánh Gỗ Óc Chó và Gỗ Sồi: Ưu Nhược Điểm & Nên Chọn Loại Nào?"
 date: 2025-04-13T14:26:10+00:00
-slug: "so-sanh-go-oc-cho-va-go-soi"
 categories: ['Cam Nang']
 tags: ['gỗ óc chó']
 draft: false

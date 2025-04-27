@@ -1,7 +1,6 @@
 ---
 title: "Kinh Nghiệm Vàng Chọn Mua Kệ Tivi Gỗ Óc Chó Chất Lượng, Đẹp Bền"
 date: 2025-04-14T16:53:31+00:00
-slug: "kinh-nghiem-mua-ke-tivi-go-oc-cho"
 categories: ['Kinh Nghiệm']
 tags: ['kệ tivi']
 draft: false

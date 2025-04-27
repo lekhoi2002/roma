@@ -1,7 +1,6 @@
 ---
 title: "Hướng Dẫn Vệ Sinh và Bảo Quản Sofa Gỗ Óc Chó Luôn Bền Đẹp Như Mới"
 date: 2025-04-14T16:51:25+00:00
-slug: "ve-sinh-bao-quan-sofa-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['giường']
 draft: false

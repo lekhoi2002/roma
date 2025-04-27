@@ -1,7 +1,6 @@
 ---
 title: "Xu Hướng Thiết Kế Nội Thất Gỗ Óc Chó Mới Nhất [Cập Nhật Năm Nay]"
 date: 2025-04-14T16:42:50+00:00
-slug: "xu-huong-thiet-ke-noi-that-go-oc-cho-moi-nhat"
 categories: ['Cam Nang']
 tags: ['bàn ghế']
 draft: false

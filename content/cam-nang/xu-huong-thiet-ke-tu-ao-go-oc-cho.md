@@ -1,7 +1,6 @@
 ---
 title: "Xu Hướng Thiết Kế Tủ Áo Gỗ Óc Chó Mới Nhất: Cập Nhật Cho Không Gian Hiện Đại"
 date: 2025-04-14T16:54:21+00:00
-slug: "xu-huong-thiet-ke-tu-ao-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['tủ áo']
 draft: false

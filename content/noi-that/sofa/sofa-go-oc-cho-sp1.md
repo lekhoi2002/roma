@@ -1,20 +1,10 @@
 ---
 title: "Sofa gỗ óc chó sp1"
 date: 2025-03-26T05:23:07+00:00
-slug: "sofa-go-oc-cho-sp1"
 categories: []
 tags: []
 draft: false
-_edit_last: "2"
-_thumbnail_id: "172"
-_noi_that_chat_lieu: "Gỗ tự nhiên óc chó, Gỗ tự nhiên sồi mỹ"
-_noi_that_mau_sac: "Vân, màu gỗ tự nhiên"
-_noi_that_bao_hanh: "36 tháng"
-_noi_that_tinh_trang: "Còn hàng"
 _wp_old_slug: "sofa-go-oc-cho-sp"
-rank_math_seo_score: "21"
-rank_math_internal_links_processed: "1"
-rank_math_primary_noi_that_category: "0"
 ---
 ## Khám Phá Vẻ Đẹp Đẳng Cấp Của Bộ Sofa Gỗ Óc Chó Tự Nhiên Từ ROMAX
 
@@ -56,7 +46,7 @@ Bộ sofa gỗ óc chó tự nhiên từ Xưởng Sản Xuất Gỗ ÓC Chó ROM
 
 Để khám phá thêm nhiều lựa chọn [Salon gỗ óc chó](https://romax.vn/danh-muc/phong-khach/sofa-go-oc-cho/) khác, cũng như các sản phẩm nội thất gỗ óc chó đồng bộ như [Giường ngủ gỗ óc chó](https://romax.vn/danh-muc/phong-ngu/giuong-go-oc-cho/) hay [Bàn ăn gỗ óc chó](https://romax.vn/danh-muc/phong-bep/ban-an-go-oc-cho/), mời quý khách tham khảo thêm tại website của chúng tôi. Mọi chi tiết cần tư vấn, xin vui lòng liên hệ hotline **0972.612.669** hoặc ghé thăm trực tiếp **Xưởng Sản Xuất Gỗ ÓC Chó ROMAX** để được trải nghiệm sản phẩm và nhận tư vấn chuyên sâu.
 
-[caption id="attachment\_171" align="aligncenter" width="1200"]![Sofa gỗ óc chó sp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf1-00-1-1280x821.webp) Sofa gỗ óc chó sp[/caption]
-![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf1-00-2-1280x910.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf1-00-3-1280x870.webp)
-![](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf1-00-4-1280x821.webp)
+![sofa gỗ tự nhiên óc chó đẹp](/img/sofa/sf1/sofa-go-oc-cho-sf1-00-1.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf1/sofa-go-oc-cho-sf1-00-2.webp)
+![sofa gỗ óc chó tại hà nội](/img/sofa/sf1/sofa-go-oc-cho-sf1-00-3.webp)
+![sofa gỗ tự nhiên óc chó đẹp](/img/sofa/sf1/sofa-go-oc-cho-sf1-00-4.webp)

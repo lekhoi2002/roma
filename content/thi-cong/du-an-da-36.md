@@ -1,22 +1,9 @@
 ---
 title: "Thi Công Nhà phố tại Khu đô thị Ecopark"
 date: 2025-04-03T05:47:38+00:00
-slug: "du-an-da-36"
 categories: []
 tags: []
 draft: false
-_edit_last: "1"
-_thumbnail_id: "452"
-_du_an_chu_dau_tu: "Anh Hưng"
-_du_an_dia_chi_thi_cong: "Ecopark"
-_du_an_loai_hinh: "Nhà Phố"
-_du_an_phong_cach_thiet_ke: "Hiện đại Sang trọng"
-_du_an_vat_lieu_chinh: "Chủ đạo Gỗ tự nhiên Óc Chó"
-_du_an_don_vi_thiet_ke: "ROMAX"
-_du_an_nam_thuc_hien: "2024"
-rank_math_internal_links_processed: "1"
-rank_math_seo_score: "14"
-rank_math_primary_du_an_category: "0"
 ---
 # Nâng tầm Đẳng cấp Phòng khách Nhà phố Ecopark với Sofa Gỗ Óc Chó ROMAX
 
@@ -57,11 +44,11 @@ Sở hữu một không gian sống sang trọng, ấm cúng và thể hiện đ
 
 Bộ sofa gỗ óc chó do ROMAX thực hiện không chỉ đáp ứng trọn vẹn mong muốn của Anh Hưng về một phòng khách đẳng cấp tại nhà phố Ecopark, mà còn trở thành niềm tự hào, một điểm nhấn giá trị thể hiện gu thẩm mỹ tinh tế của gia chủ. Tại ROMAX, chúng tôi biến những khối gỗ óc chó thô mộc thành những kiệt tác nội thất, mang đến vẻ đẹp sang trọng và sự ấm cúng cho mọi không gian sống. Hãy liên hệ ROMAX ngay hôm nay để sở hữu những sản phẩm nội thất gỗ óc chó xứng tầm!
 
-![bàn trang điểm gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/ban-trang-diem-go-oc-cho-btd36-8-1280x960.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf36-6-1280x1706.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf36-5-1280x960.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf36-4-1280x960.webp)
-![sofa gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf36-3-1280x1706.webp)
-![sofa gỗ tự nhiên óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf36-2-1280x960.webp)
-![sofa gỗ óc chó](https://romax.vn/wp-content/uploads/2025/03/sofa-go-oc-cho-sf36-1-1280x960.webp)
-![bàn ăn gỗ óc chó đẹp](https://romax.vn/wp-content/uploads/2025/03/ban-an-go-oc-cho-ba36-1-1280x960.webp)
+![bàn trang điểm gỗ óc chó đẹp](/img/ban-td/btd36/ban-trang-diem-go-oc-cho-btd36-8.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf36/sofa-go-oc-cho-sf36-6.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf36/sofa-go-oc-cho-sf36-5.webp)
+![sofa gỗ óc chó](/img/sofa/sf36/sofa-go-oc-cho-sf36-4.webp)
+![sofa gỗ óc chó đẹp](/img/sofa/sf36/sofa-go-oc-cho-sf36-3.webp)
+![sofa gỗ tự nhiên óc chó](/img/sofa/sf36/sofa-go-oc-cho-sf36-2.webp)
+![sofa gỗ óc chó](/img/sofa/sf36/sofa-go-oc-cho-sf36-1.webp)
+![bàn ăn gỗ óc chó đẹp](/img/ban-an/ba36/ban-an-go-oc-cho-ba36-1.webp)

@@ -1,7 +1,6 @@
 ---
 title: "Xu Hướng Thiết Kế Tủ Bếp Gỗ Óc Chó Mới Nhất 2025"
 date: 2025-04-14T16:55:19+00:00
-slug: "xu-huong-thiet-ke-tu-bep-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['tủ bếp']
 draft: false

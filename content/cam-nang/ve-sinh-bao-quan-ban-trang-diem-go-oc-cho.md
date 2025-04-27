@@ -1,7 +1,6 @@
 ---
 title: "Hướng Dẫn Vệ Sinh và Bảo Quản Bàn Trang Điểm Gỗ Óc Chó Luôn Bền Đẹp"
 date: 2025-04-14T16:45:59+00:00
-slug: "ve-sinh-bao-quan-ban-trang-diem-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['bàn trang điểm']
 draft: false

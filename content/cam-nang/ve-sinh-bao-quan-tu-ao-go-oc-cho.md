@@ -1,7 +1,6 @@
 ---
 title: "Hướng Dẫn Vệ Sinh & Bảo Quản Tủ Áo Gỗ Óc Chó Luôn Bền Đẹp Như Mới"
 date: 2025-04-14T16:54:21+00:00
-slug: "ve-sinh-bao-quan-tu-ao-go-oc-cho"
 categories: ['Cam Nang']
 tags: ['tủ áo']
 draft: false
