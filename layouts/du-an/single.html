@@ -60,12 +60,31 @@
                           </div>
                       {{ end }}
                   </div>
+                  {{/* Cột Meta Box */}}
                   <div class="col-lg-5">
-                      {{/* Partial meta-box sẽ được gọi ở đây và tự xử lý logic bên trong */}}
+                      {{/* Gọi partial meta-box như bình thường */}}
                       {{ partial "meta-box.html" . }}
+
+                      {{/* === THÊM ĐOẠN CODE NÚT BẤM VÀO ĐÂY === */}}
+                      {{/* Container cho các nút, nằm BÊN NGOÀI meta-box */}}
+                      {{/* Class meta-buttons-external sẽ được định nghĩa trong CSS tùy chỉnh */}}
+                      <div class="meta-buttons-external mt-3"> {{/* mt-3 tạo khoảng cách trên */}}
+                          {{/* Nút 1: Size md (mặc định), màu primary */}}
+                          <a href="tel:0972612669" class="btn btn-primary shadow-sm rounded flex-grow-1 text-center" role="button">
+                              <i class="fas fa-calculator me-1"></i> Nhận Báo Giá
+                          </a>
+                          {{/* Nút 2: Size md (mặc định), màu primary */}}
+                          <a href="tel:0972612669" class="btn btn-primary shadow-sm rounded flex-grow-1 text-center" role="button">
+                             <i class="fas fa-phone me-1"></i> 0972612669
+                          </a>
+                      </div>
+                      {{/* === KẾT THÚC ĐOẠN CODE NÚT BẤM === */}}
+
                   </div>
               </div>
+              {{/* --- KẾT THÚC LAYOUT 2 CỘT --- */}}
               <hr class="my-4"/>
+              {{/* ... Phần còn lại của layout ... */}}
               <article class="article-content">
                   {{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) | safeHTML }}
               </article>
