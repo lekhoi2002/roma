@@ -6,7 +6,15 @@ categories:
 tags:
     - ban-an
 draft: false
+ma_san_pham: "BA"
+chat_lieu: "Gỗ Óc Chó tự nhiên nhập khẩu Bắc Mỹ, Sơn Inchem"
+mau_sac: "Vân, màu Nâu Óc Chó tự nhiên"
+bao_hanh: "36 tháng"
+thuong_hieu: "ROMAX"
+title_seo: " "
+description_seo: " "
 thumbnail: img/thumb/ban-an/ban-an-go-oc-cho-ba18-dep.webp
+
 ---
 ![bàn ăn gỗ óc chó đẹp](/img/ban-an/ba18/ban-an-go-oc-cho-ba18-1.webp)
 ![bàn ăn gỗ óc chó tại hà nội](/img/ban-an/ba18/ban-an-go-oc-cho-ba18-2.webp)

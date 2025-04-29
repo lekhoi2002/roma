@@ -4,6 +4,13 @@ date: 2025-03-26T06:13:40+00:00
 categories: ['sofa-oc-cho']
 tags: ['sofa-oc-cho']
 draft: false
+ma_san_pham: "BA"
+chat_lieu: "Gỗ Óc Chó tự nhiên nhập khẩu Bắc Mỹ, Sơn Inchem"
+mau_sac: "Vân, màu Nâu Óc Chó tự nhiên"
+bao_hanh: "36 tháng"
+thuong_hieu: "ROMAX"
+title_seo: " "
+description_seo: " "
 ---
 ### **Bộ Sofa Gỗ Óc Chó Đẳng Cấp: Điểm Nhấn Sang Trọng Cho Không Gian Sống Hiện Đại**
 

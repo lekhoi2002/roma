@@ -4,6 +4,13 @@ date: 2025-03-26T14:27:19+00:00
 thumbnail: img/thumb/ban-td/ban-trang-diem-go-oc-cho-btd8-dep.webp
 tags: ['ban-trang-diem']
 draft: false
+ma_san_pham: "BA"
+chat_lieu: "Gỗ Óc Chó tự nhiên nhập khẩu Bắc Mỹ, Sơn Inchem"
+mau_sac: "Vân, màu Nâu Óc Chó tự nhiên"
+bao_hanh: "36 tháng"
+thuong_hieu: "ROMAX"
+title_seo: " "
+description_seo: " "
 ---
 ![bàn trang điểm gỗ óc chó đẹp](/img/ban-td/btd8/ban-trang-diem-go-oc-cho-btd8-00-1.webp)
 ![bàn trang điểm gỗ óc chó tại hà nội](/img/ban-td/btd8/ban-trang-diem-go-oc-cho-btd8-00-2.webp)

@@ -19,6 +19,16 @@ cascade:
 date: 2025-04-11T04:49:06.421Z
 lastmod: 2025-04-11T04:49:07.299Z
 type: categories
+chu_dau_tu: "Anh Khoa"
+dia_chi_thi_cong: " "
+loai_hinh: "Biệt thự Song lập"
+phong_cach: ")"
+vat_lieu_chinh: "Gỗ Tự Nhiên Óc Chó Bắc Mỹ"
+don_vi: "ROMAX"
+tong_dien_tich_xd: " m2"
+nam_thuc_hien: "2023"
+title_se Bous: " "
+description_seo: " "
 ---
 
 ## Giới thiệu Tổng Quan về Sàn Gỗ Công Nghiệp

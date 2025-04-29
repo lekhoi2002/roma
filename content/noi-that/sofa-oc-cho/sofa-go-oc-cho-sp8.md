@@ -4,6 +4,13 @@ date: 2025-03-26T06:07:10+00:00
 thumbnail: img/thumb/sofa/sofa-go-oc-cho-sf8-dep.webp
 tags: ['sofa-oc-cho']
 draft: false
+ma_san_pham: "BA"
+chat_lieu: "Gỗ Óc Chó tự nhiên nhập khẩu Bắc Mỹ, Sơn Inchem"
+mau_sac: "Vân, màu Nâu Óc Chó tự nhiên"
+bao_hanh: "36 tháng"
+thuong_hieu: "ROMAX"
+title_seo: " "
+description_seo: " "
 ---
 Chúng ta đang cùng chiêm ngưỡng những hình ảnh tinh tế của một không gian phòng khách sang trọng, nơi bộ sofa gỗ óc chó tự nhiên cao cấp từ Xưởng Sản Xuất Gỗ ÓC Chó ROMAX đóng vai trò là tâm điểm thu hút mọi ánh nhìn. Đây không chỉ là một bộ bàn ghế, mà còn là một tác phẩm nghệ thuật, thể hiện đẳng cấp và gu thẩm mỹ của gia chủ.
 

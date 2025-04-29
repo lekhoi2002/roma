@@ -4,6 +4,16 @@ date: 2025-04-03T05:34:08+00:00
 categories: []
 tags: []
 draft: false
+chu_dau_tu: "Anh Khoa"
+dia_chi_thi_cong: " "
+loai_hinh: "Biệt thự Song lập"
+phong_cach: ")"
+vat_lieu_chinh: "Gỗ Tự Nhiên Óc Chó Bắc Mỹ"
+don_vi: "ROMAX"
+tong_dien_tich_xd: " m2"
+nam_thuc_hien: "2023"
+title_se Bous: " "
+description_seo: " "
 ---
 ## Kiến tạo Dinh thự Đẳng cấp: Nội thất Gỗ Óc Chó Tinh hoa tại Biệt thự Vinhomes Riverside cùng ROMAX
 

@@ -4,6 +4,13 @@ date: 2025-03-28T07:19:25+00:00
 thumbnail: img/thumb/giuong/giuong-go-oc-cho-gg34-v2-dep.webp
 tags: ['giuong-ngu']
 draft: false
+ma_san_pham: "BA"
+chat_lieu: "Gỗ Óc Chó tự nhiên nhập khẩu Bắc Mỹ, Sơn Inchem"
+mau_sac: "Vân, màu Nâu Óc Chó tự nhiên"
+bao_hanh: "36 tháng"
+thuong_hieu: "ROMAX"
+title_seo: " "
+description_seo: " "
 ---
 ## Giường Ngủ Gỗ Óc Chó 34v2: Tuyệt Tác Sang Trọng Cho Phòng Ngủ Đẳng Cấp
 

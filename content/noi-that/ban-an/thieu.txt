@@ -1,6 +1,0 @@
-thumbnail: img/thumb/ban-an/ban-ghe-an-go-oc-cho-bga1-dep.webp
-thumbnail: img/thumb/ban-an/ban-ghe-an-go-oc-cho-bga10-dep.webp
-thumbnail: img/thumb/ban-an/ban-ghe-an-go-oc-cho-bga13-dep.webp
-thumbnail: img/thumb/ban-an/ban-ghe-an-go-oc-cho-bga14-dep.webp
-thumbnail: img/thumb/ban-an/ban-ghe-an-go-oc-cho-bga2-dep.webp
-thumbnail: img/thumb/ban-an/ban-ghe-an-go-oc-cho-bga8-dep.webp

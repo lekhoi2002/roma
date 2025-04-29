@@ -4,6 +4,13 @@ date: 2025-03-28T06:32:58+00:00
 thumbnail: img/thumb/sofa/sofa-go-oc-cho-sf31-dep.webp
 tags: ['sofa-oc-cho']
 draft: false
+ma_san_pham: "BA"
+chat_lieu: "Gỗ Óc Chó tự nhiên nhập khẩu Bắc Mỹ, Sơn Inchem"
+mau_sac: "Vân, màu Nâu Óc Chó tự nhiên"
+bao_hanh: "36 tháng"
+thuong_hieu: "ROMAX"
+title_seo: " "
+description_seo: " "
 ---
 ### 1. Giới thiệu ngắn gọn về hình ảnh
 

@@ -4,6 +4,16 @@ date: 2025-04-03T05:45:07+00:00
 categories: []
 tags: []
 draft: false
+chu_dau_tu: "Anh Khoa"
+dia_chi_thi_cong: " "
+loai_hinh: "Biệt thự Song lập"
+phong_cach: ")"
+vat_lieu_chinh: "Gỗ Tự Nhiên Óc Chó Bắc Mỹ"
+don_vi: "ROMAX"
+tong_dien_tich_xd: " m2"
+nam_thuc_hien: "2023"
+title_se Bous: " "
+description_seo: " "
 ---
 *Giữa lòng thủ đô sôi động, nơi những tòa nhà vươn mình chạm tới mây xanh, căn penthouse tại Keangnam Landmark 72 của Anh Khang nổi bật như một biểu tượng của phong cách sống thượng lưu. Với mong muốn kiến tạo một tổ ấm không chỉ sang trọng, tiện nghi mà còn thể hiện dấu ấn cá nhân và gu thẩm mỹ tinh tế, Anh Khang đã tin tưởng lựa chọn ROMAX làm đơn vị đồng hành. Trái tim của không gian sống đỉnh cao này chính là vẻ đẹp ấm áp, sang trọng vượt thời gian của nội thất gỗ óc chó tự nhiên – một lựa chọn hoàn hảo được ROMAX hiện thực hóa một cách xuất sắc.*
 

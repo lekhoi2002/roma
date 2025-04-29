@@ -4,6 +4,13 @@ date: 2025-03-28T06:24:12+00:00
 categories: ['sofa-oc-cho']
 tags: ['sofa-oc-cho']
 draft: false
+ma_san_pham: "BA"
+chat_lieu: "Gỗ Óc Chó tự nhiên nhập khẩu Bắc Mỹ, Sơn Inchem"
+mau_sac: "Vân, màu Nâu Óc Chó tự nhiên"
+bao_hanh: "36 tháng"
+thuong_hieu: "ROMAX"
+title_seo: " "
+description_seo: " "
 ---
 Bước vào không gian sống được bài trí tỉ mỉ qua các hình ảnh, chúng ta dễ dàng cảm nhận được sự sang trọng và ấm cúng. Tâm điểm của sự chú ý không gì khác chính là bộ sofa gỗ óc chó SF15 – một tuyệt tác nội thất đến từ Xưởng Sản Xuất Gỗ ÓC Chó ROMAX, biểu tượng cho gu thẩm mỹ tinh tế và đẳng cấp của gia chủ.
 

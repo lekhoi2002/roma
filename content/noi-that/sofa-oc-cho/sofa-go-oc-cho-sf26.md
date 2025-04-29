@@ -4,6 +4,13 @@ date: 2025-03-28T06:29:50+00:00
 thumbnail: img/thumb/sofa/sofa-go-oc-cho-sf26-dep.webp
 tags: ['sofa-oc-cho']
 draft: false
+ma_san_pham: "BA"
+chat_lieu: "Gỗ Óc Chó tự nhiên nhập khẩu Bắc Mỹ, Sơn Inchem"
+mau_sac: "Vân, màu Nâu Óc Chó tự nhiên"
+bao_hanh: "36 tháng"
+thuong_hieu: "ROMAX"
+title_seo: " "
+description_seo: " "
 ---
 ### Tuyệt Tác Sofa Gỗ Óc Chó: Tâm Điểm Đẳng Cấp Cho Không Gian Sống
 
