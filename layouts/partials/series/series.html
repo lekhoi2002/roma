@@ -1,5 +1,45 @@
-{{ if .Params.series }}
-<div class="mt-2 mb-5 series-container">
-    {{ partial "series/series_base.html" . }}
-</div>
-{{end}}
+{{/* layouts/partials/series/series.html */}}
+{{/* Entry point, kiểm tra series và gọi partial list, có thể đóng/mở */}}
+
+{{/* --- Xác định context và các tham số --- */}}
+{{ $pageCtx := "" }}      {{/* Biến lưu trữ đối tượng Page thực sự */}}
+{{ $closed := false }}    {{/* Giá trị mặc định cho closed */}}
+{{ $open := false }}      {{/* Giá trị mặc định cho open */}}
+
+{{/* Kiểm tra xem context (.) được truyền vào là Map (dict) hay Page object */}}
+{{ if reflect.IsMap . }}
+  {{/* Nếu là map (gọi bằng dict), lấy page và các tham số từ map */}}
+  {{ $pageCtx = .page }} {{/* Lấy page object từ khóa 'page' trong dict */}}
+  {{ $closed = .closed | default false }} {{/* Lấy giá trị 'closed' từ dict */}}
+  {{ $open = .open | default false }}   {{/* Lấy giá trị 'open' từ dict */}}
+{{ else }}
+  {{/* Nếu không phải map, context chính là Page object (gọi mặc định) */}}
+  {{ $pageCtx = . }} {{/* Gán context vào pageCtx */}}
+  {{/* $closed và $open giữ giá trị mặc định là false */}}
+{{ end }}
+{{/* --- Kết thúc xác định context --- */}}
+
+{{/* Chỉ tiếp tục nếu có page context và page đó có series */}}
+{{ if and $pageCtx $pageCtx.Params.series }}
+    {{ $seriesName := index $pageCtx.Params.series 0 }} {{/* Luôn dùng $pageCtx để truy cập Params */}}
+
+    {{ if $closed }}
+        {{/* Hiển thị dạng <details> nếu $closed là true */}}
+        <details class="series-container-details mb-4 rounded border shadow-sm" {{ if $open }}open{{ end }}>
+            <summary class="bg-light p-2 fw-semibold list-group-item list-group-item-action">
+                 <i class="fas fa-stream me-2"></i>
+                 Series: {{ $seriesName }} (Nhấn để xem)
+            </summary>
+            <div class="p-2">
+                 {{/* Truyền page context ($pageCtx) vào partial con */}}
+                 {{ partial "series/series-list.html" $pageCtx }}
+            </div>
+        </details>
+    {{ else }}
+        {{/* Hiển thị dạng mở (div) nếu $closed là false (mặc định) */}}
+        <div class="series-container-open mb-4">
+             {{/* Truyền page context ($pageCtx) vào partial con */}}
+            {{ partial "series/series-list.html" $pageCtx }}
+        </div>
+    {{ end }}
+{{ end }}

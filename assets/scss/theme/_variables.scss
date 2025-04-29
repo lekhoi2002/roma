@@ -1,34 +1,58 @@
 // Placeholder to quickly add your own theme variable overrides
   /* Chỉ thay đổi nền của nội dung bài viết */
   /* Series Navigation Styles */
-details.series-container {
-  border: 1px solid #e9ecef;
-  border-radius: 0.375rem;
-  
-  summary {
-      cursor: pointer;
-      user-select: none;
-      transition: background-color 0.3s ease;
-      
-      &:hover {
-          background-color: rgba(0,0,0,0.05);
-      }
-      
-      i {
-          transition: transform 0.3s ease;
-      }
-  }
-  
-  &[open] summary i {
-      transform: rotate(180deg);
-  }
+/* assets/css/custom.css */
+
+/* Style cho card series */
+.series-card {
+  margin-top: 1.5rem; /* Khoảng cách với nội dung trên */
+  margin-bottom: 1.5rem; /* Khoảng cách với nội dung dưới */
+  border-color: var(--bs-border-color-translucent); /* Border nhẹ nhàng hơn */
 }
 
-.series-list {
-  .list-group-item {
-      &.active {
-          background-color: #e9ecef;
-          color: #212529;
-      }
-  }
+.series-card .card-header {
+  padding: 0.6rem 1rem; /* Điều chỉnh padding header */
+}
+
+/* Style cho item trong danh sách series */
+.series-card .list-group-item a,
+.series-card .list-group-item {
+  padding: 0.75rem 1rem; /* Padding thống nhất cho item */
+  font-size: 0.9rem; /* Giảm cỡ chữ một chút */
+  border: none; /* Bỏ border mặc định của list-group-item */
+  border-radius: 0; /* Bỏ border-radius để khớp với card-flush */
+}
+
+.series-card .list-group-item a:hover,
+.series-card .list-group-item a:focus {
+  background-color: var(--bs-secondary-bg); /* Màu nền khi hover/focus */
+}
+
+.series-card .list-group-item a.active {
+   font-weight: 600; /* In đậm bài hiện tại */
+   /* Màu nền active được Bootstrap xử lý */
+}
+
+.series-card .list-group-item .series-order {
+  min-width: 70px; /* Đảm bảo căn chỉnh thẳng hàng */
+  display: inline-block;
+}
+
+/* Style cho thẻ <details> nếu dùng */
+.series-container-details {
+    background-color: var(--bs-body-bg); /* Nền giống trang */
+}
+.series-container-details summary {
+    cursor: pointer;
+    outline: none; /* Bỏ outline khi focus */
+}
+.series-container-details summary::marker {
+    /* Có thể ẩn hoặc tùy chỉnh marker mặc định */
+    /* content: ""; */
+}
+.series-container-details summary:hover {
+    background-color: var(--bs-secondary-bg);
+}
+.series-container-details[open] > summary {
+   border-bottom: 1px solid var(--bs-border-color-translucent);
 }

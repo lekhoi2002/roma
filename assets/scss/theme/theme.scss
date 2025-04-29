@@ -1,5 +1,5 @@
-// Placeholder to quickly add your own styles
 /* assets/css/custom.css */
+
 /* Style cho container chứa các nút bên ngoài meta box */
 .meta-buttons-external {
   display: flex;
@@ -13,9 +13,31 @@
   flex-basis: 0;    /* Đảm bảo flex-grow hoạt động */
   font-weight: 600 !important; /* Đặt font-weight */
   color: #ffffff !important;   /* Đảm bảo chữ trắng */
-  /* Bootstrap sẽ xử lý màu nền .btn-primary */
-  /* Bỏ class .btn-sm sẽ khiến nút có kích thước md mặc định */
 }
+
+/* --- MỚI: Màu nền xen kẽ và padding cho meta-item --- */
+.meta-box .meta-items-list .meta-item {
+    padding: 8px 12px; /* Thêm padding cho dễ nhìn */
+    margin-bottom: 0 !important; /* Ghi đè mb-2 để nền liền mạch */
+    border-radius: 0.25rem; /* Bo góc nhẹ */
+}
+
+.meta-box .meta-items-list .meta-item:nth-child(odd) { /* Chọn các dòng lẻ */
+  background-color: rgba(132, 83, 64, 0.08); /* Màu bạn yêu cầu, giảm độ đậm để dễ đọc hơn */
+  /* Nếu muốn màu đậm đúng như yêu cầu và chữ trắng:
+   background-color: rgba(132, 83, 64, 0.75);
+   color: #ffffff; */
+  /* Bạn có thể cần điều chỉnh màu chữ của icon và label nếu dùng nền đậm */
+  /* Ví dụ:
+    .meta-box .meta-items-list .meta-item:nth-child(odd) .meta-label,
+    .meta-box .meta-items-list .meta-item:nth-child(odd) .meta-label i,
+    .meta-box .meta-items-list .meta-item:nth-child(odd) .meta-value {
+        color: #ffffff !important;
+    }
+    .meta-box .meta-items-list .meta-item:nth-child(odd) .meta-value.text-danger {
+         color: #ffdddd !important; /* Điều chỉnh màu giá cho dễ đọc trên nền tối */
+    }
+/* --- KẾT THÚC PHẦN MỚI --- */
 
 /* Tùy chọn: Nếu bạn muốn các giá trị text-primary trong meta-box
    không bị ảnh hưởng bởi link mặc định, bạn có thể thêm: */

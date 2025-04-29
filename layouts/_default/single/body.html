@@ -4,6 +4,31 @@
 
 {{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) }}
 
+{{/* === PHẦN TAGS ĐƯỢC DI CHUYỂN XUỐNG ĐÂY === */}}
+{{- if gt (len (.GetTerms "tags")) 0 -}}
+<div class="page-tags mt-5 pt-4 border-top"> {{/* Thêm class và khoảng cách */}}
+    <h5 class="mb-3">Tags:</h5> {{/* Thêm tiêu đề nhỏ */}}
+    <div class="d-none-dark">
+        <div class="hstack gap-1 flex-wrap"> {{/* Thêm flex-wrap */}}
+            {{ range (.GetTerms "tags") -}}
+                {{- $url := .Page.RelPermalink -}}
+                {{ partial "assets/button.html" (dict "href" $url "title" .LinkTitle "color" "light" "size" "sm") }}
+            {{ end -}}
+        </div>
+    </div>
+
+    <div class="d-none-light">
+        <div class="hstack gap-1 flex-wrap"> {{/* Thêm flex-wrap */}}
+            {{ range (.GetTerms "tags") -}}
+                {{- $url := .Page.RelPermalink -}}
+                {{ partial "assets/button.html" (dict "href" $url "title" .LinkTitle "color" "primary" "size" "sm" "outline" "true") }}
+            {{ end -}}
+        </div>
+    </div>
+</div>
+{{- end -}}
+{{/* === KẾT THÚC PHẦN TAGS === */}}
+
 {{/* Thêm series vào cuối bài viết */}}
 {{ if .Params.series }}
 <div class="series-container mt-5">

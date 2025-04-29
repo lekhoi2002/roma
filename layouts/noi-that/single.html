@@ -101,13 +101,6 @@
                     {{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) | safeHTML }}
                 </article>
 
-                {{/* 6. Hiển thị Series (nếu có) */}}
-                {{ if .Params.series }}
-                <div class="series-container mt-5">
-                    {{ partial "series/series.html" . }}
-                </div>
-                {{ end }}
-
                 {{/* --- 7. BÀI VIẾT LIÊN QUAN (ĐÃ CHÈN) --- */}}
                 {{ partial "noi-that/related-posts.html" . }}
                 {{/* --- KẾT THÚC BÀI VIẾT LIÊN QUAN --- */}}

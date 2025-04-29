@@ -88,11 +88,6 @@
               <article class="article-content">
                   {{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) | safeHTML }}
               </article>
-              {{ if .Params.series }}
-              <div class="series-container mt-5">
-                  {{ partial "series/series.html" . }}
-              </div>
-              {{ end }}
               {{ partial "noi-that/related-posts.html" . }} {{/* Có thể tạo partial related-posts riêng cho du-an nếu cần */}}
               {{ .Render "single/footer" }}
           </div>
