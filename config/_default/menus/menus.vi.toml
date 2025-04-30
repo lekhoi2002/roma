@@ -4,68 +4,150 @@
   weight = 10
 
 [[main]]
-  name = "Nội thất"
-  pageRef = "/noi-that/"
+  name = "Dự Án"
   weight = 20
+[[main]]
+  parent = "Dự Án"
+  name = "Thiết Kê"
+  pageRef = "/thiet-ke/"
+  weight = 21
 
 [[main]]
-  name = "Sàn Xương Cá"
-  pageRef = "#"
+  parent = "Dự Án"
+  name = "Thi Công"
+  pageRef = "thi-cong"
+  weight = 22
+
+[[main]]
+  name = "Phòng Khách"
   weight = 30
-
 [[main]]
-  name = "Sàn Nhựa"
+  parent = "Phòng Khách"
+  name = "Sofa"
   pageRef = "#"
-  weight = 40
+  weight = 31
 
 [[main]]
-  name = "Chủng Loại"
+  parent = "Phòng Khách"
+  name = "Bàn Trà"
+  pageRef = "#"
+  weight = 32
+
+[[main]]
+  parent = "Phòng Khách"
+  name = "Kệ Tivi"
+  pageRef = "#"
+  weight = 33
+
+[[main]]
+  name = "Phòng Ngủ"
+  weight = 40
+[[main]]
+  parent = "Phòng Ngủ"
+  name = "Giường"
+  pageRef = "#"
+  weight = 41
+
+[[main]]
+  parent = "Phòng Ngủ"
+  name = "Tủ Áo"
+  pageRef = "#"
+  weight = 42
+
+[[main]]
+  parent = "Phòng Ngủ"
+  name = "Bàn Trang Điểm"
+  pageRef = "#"
+  weight = 43
+
+[[main]]
+  name = "Phòng Bếp"
   weight = 50
 [[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Gỗ Đức"
+  parent = "Phòng Bếp"
+  name = "Bàn Ăn"
   pageRef = "#"
   weight = 51
 
 [[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Malaysia"
+  parent = "Phòng Bếp"
+  name = "Tủ Bếp"
   pageRef = "#"
   weight = 52
 
 [[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Thái Lan"
+  name = "Thiết Kế"
+  weight = 60
+[[main]]
+  parent = "Thiết Kế"
+  name = "Nội Thất Biệt Thự"
   pageRef = "#"
-  weight = 53
+  weight = 61
 
 [[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Việt Nam"
+  parent = "Thiết Kế"
+  name = "Nội Thất Nhà Phố"
   pageRef = "#"
-  weight = 54
+  weight = 62
   
 [[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Gỗ Chịu Nước"
+  parent = "Thiết Kế"
+  name = "Nội Thất Chung Cư"
   pageRef = "#"
-  weight = 55
+  weight = 62
 
 [[main]]
-  parent = "Chủng Loại"
-  name = "Sàn Gỗ Giá Rẻ"
+  name = "Thi Công"
+  weight = 70
+[[main]]
+  parent = "Thi Công"
+  name = "Nội Thất Biệt Thự"
   pageRef = "#"
-  weight = 56
+  weight = 71
 
 [[main]]
-  name = "Phụ Kiện"
+  parent = "Thi Công"
+  name = "Nội Thất Nhà Phố"
   pageRef = "#"
-  weight = 60
+  weight = 72
+  
+[[main]]
+  parent = "Thi Công"
+  name = "Nội Thất Chung Cư"
+  pageRef = "#"
+  weight = 72
+
+[[main]]
+  name = "Tin Tức"
+  weight = 80
+[[main]]
+  parent = "Tin Tức"
+  name = "Kinh Nghiệm"
+  pageRef = "#"
+  weight = 81
+
+[[main]]
+  parent = "Tin Tức"
+  name = "Cẩm Nang"
+  pageRef = "#"
+  weight = 82
+  
+[[main]]
+  parent = "Tin Tức"
+  name = "Chia Sẻ"
+  pageRef = "#"
+  weight = 82
+  
+[[main]]
+  parent = "Tin Tức"
+  name = "Phong Thuỷ"
+  pageRef = "#"
+  weight = 82
 
 [[main]]
   name = "Tư Vấn"
   pageRef = "#"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Dự Án"
@@ -73,15 +155,20 @@
   weight = 80
 
 [[main]]
-  name = "Liên Hệ"
+  name = "Xưởng"
   pageRef = "/lien-he/"
   weight = 90
+
+[[main]]
+  name = "Liên Hệ"
+  pageRef = "/lien-he/"
+  weight = 91
 
 [[social]]
   name = "LinkedIn"
   pre = "fab linkedin"
   url = "https://linkedin.com"
-  weight = 10
+  weight = 80
 
 [[social]]
   name = "X"
@@ -113,63 +200,78 @@
   weight = 70
 
 [[footer]]
-  name = "Menu"
+  name = "Sản Phẩm"
   weight = 10
 
 [[footer]]
-  parent = "Menu"
-  name = "Home"
+  parent = "Sản Phẩm"
+  name = "Sofa gỗ óc chó"
   pageRef = "/"
   weight = 11
 
 [[footer]]
-  parent = "Menu"
-  name = "Sàn Xương Cá"
+  parent = "Sản Phẩm"
+  name = "Giường gỗ óc chó"
   pageRef = "#"
   weight = 13
 
 [[footer]]
-  parent = "Menu"
-  name = "Sàn Đức"
+  parent = "Sản Phẩm"
+  name = "Bàn ăn gỗ óc chó"
   pageRef = "#"
   weight = 14
 
 [[footer]]
-  parent = "Menu"
-  name = "Sàn Chịu Nước"
+  parent = "Sản Phẩm"
+  name = "Tủ bếp gỗ óc chó"
   pageRef = "#"
   weight = 15
  
 [[footer]]
-  parent = "Menu"
-  name = "Sàn Giá Rẻ"
+  parent = "Sản Phẩm"
+  name = "Tủ Áo"
   pageRef = "#"
   weight = 16
 
 [[footer]]
-  name = "Links"
+  parent = "Sản Phẩm"
+  name = "Kệ Tivi"
+  pageRef = "#"
+  weight = 17
+
+[[footer]]
+  name = "Dịch Vụ"
   weight = 20
   
 [[footer]]
-  parent = "Links"
-  name = "Khuyến Mãi"
+  parent = "Dịch Vụ"
+  name = "Thiết Kế Biệt Thự"
   pageRef = "#"
 
 [[footer]]
-  parent = "Links"
-  name = "Tư Vấn"
+  parent = "Dịch Vụ"
+  name = "Thiết Kế Chung Cư"
   pageRef = "#"
  
 [[footer]]
-  parent = "Links"
-  name = "Nhà Đẹp"
+  parent = "Dịch Vụ"
+  name = "Thiết Kế Nhà Phố"
   pageRef = "#"
   
 [[footer]]
-  parent = "Links"
-  name = "Tuyển Dụng"
+  parent = "Dịch Vụ"
+  name = "Thi Công Biệt Thự"
   pageRef = "#"
 
+[[footer]]
+  parent = "Dịch Vụ"
+  name = "Thi Công Chung Cư"
+  pageRef = "#"
+
+[[footer]]
+  parent = "Dịch Vụ"
+  name = "Thi Công Nhà Phố"
+  pageRef = "#"
 
 [[footer]]
   name = "Chính Sách"

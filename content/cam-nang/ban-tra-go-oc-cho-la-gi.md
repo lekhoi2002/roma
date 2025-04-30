@@ -18,7 +18,7 @@ Không đơn thuần là nơi đặt những tách trà hay cốc cà phê, **b�
 Với sắc nâu trầm ấm cùng những đường vân gỗ độc đáo không thể trùng lặp, mỗi chiếc bàn trà từ loại gỗ này đều là một tác phẩm nghệ thuật của tự nhiên. Chính sự kết hợp hoàn hảo giữa vẻ đẹp thẩm mỹ và công năng thực tiễn đã biến bàn trà gỗ óc chó trở thành điểm nhấn sang trọng không thể thiếu trong những phòng khách đẳng cấp.
 
 Hãy cùng tìm hiểu chi tiết hơn về món đồ nội thất đặc biệt này và lý do tại sao nó lại được những người sành điệu ưa chuộng đến vậy.
-![test ảnh](/img/giuong-go-oc-cho-gg40-53.webp)
+
 
 ## Gỗ Óc Chó - Chất Liệu Tạo Nên Sự Khác Biệt
 

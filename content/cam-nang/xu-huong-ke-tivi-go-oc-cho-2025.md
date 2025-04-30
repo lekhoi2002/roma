@@ -7,7 +7,6 @@ draft: false
 ---
 # Cập Nhật Xu Hướng Thiết Kế Kệ Tivi Gỗ Óc Chó Mới Nhất Năm 2025
 
-![Kệ tivi gỗ óc chó thiết kế hiện đại](kệ-tivi-gỗ-óc-chó-2025.jpg)
 
 
 Kệ tivi gỗ óc chó thiết kế hiện đại

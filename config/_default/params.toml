@@ -38,7 +38,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["noi-that", "san-go-xuong-ca", "gallery"]
+    sections = ["noi-that", "thiet-ke", "thi-cong"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -127,19 +127,51 @@
         orientation = "stacked"
         homepage = 6
 
-[sections.cam-nang]
-    title = "Cẩm Nang"
-    layout = "card"
-    sort = "date"
-    background = ""
-    color = "body-tertiary"
-    style = "border-0 shadow card-zoom card-body-margin"
-    cols = 3
-    padding = "3"
-    header = "full"
-    footer = "none"
-    orientation = "stacked"
-    homepage = 6
+    [sections.thiet-ke]
+        title = "Thiết Kế Nội Thất"
+        layout = "card"
+        sort = "weight"
+        background = ""
+        color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        ratio = "3x2"
+        padding = "2"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+
+    [sections.thi-cong]
+        title = "Thi CÔng Nội Thất"
+        layout = "card"
+        sort = "weight"
+        background = ""
+        color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        ratio = "3x2"
+        padding = "2"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+
+    [sections.cam-nang]
+        title = "Thi CÔng Nội Thất"
+        layout = "card"
+        sort = "weight"
+        background = ""
+        color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        ratio = "3x2"
+        padding = "2"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+
 
 # toml-docs-end sections
 
