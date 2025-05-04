@@ -8,13 +8,13 @@
   weight = 20
 [[main]]
   parent = "Dự Án"
-  name = "Thiết Kê"
+  name = "Dự Án Thiết Kê"
   pageRef = "/thiet-ke/"
   weight = 21
 
 [[main]]
   parent = "Dự Án"
-  name = "Thi Công"
+  name = "Dự Án Thi Công"
   pageRef = "thi-cong"
   weight = 22
 
@@ -80,21 +80,19 @@
   weight = 60
 [[main]]
   parent = "Thiết Kế"
-  name = "Nội Thất Biệt Thự"
-  pageRef = "#"
+  name = "Thiết Kế Nội Thất Biệt Thự"
+  pagaRef = "#"
   weight = 61
-
 [[main]]
   parent = "Thiết Kế"
-  name = "Nội Thất Nhà Phố"
-  pageRef = "#"
+  name = "Thiết Kế Nội Thất Chung Cư"
+  pagaRef = "#"
   weight = 62
-  
 [[main]]
   parent = "Thiết Kế"
-  name = "Nội Thất Chung Cư"
-  pageRef = "#"
-  weight = 62
+  name = "Thiết Kế Nội Thất Nhà Phố"
+  pagaRef = "#"
+  weight = 63
 
 [[main]]
   name = "Thi Công"
@@ -104,13 +102,11 @@
   name = "Nội Thất Biệt Thự"
   pageRef = "#"
   weight = 71
-
 [[main]]
   parent = "Thi Công"
   name = "Nội Thất Nhà Phố"
   pageRef = "#"
-  weight = 72
-  
+  weight = 72 
 [[main]]
   parent = "Thi Công"
   name = "Nội Thất Chung Cư"
@@ -145,14 +141,10 @@
   weight = 82
 
 [[main]]
+  parent = "Tin Tức"
   name = "Tư Vấn"
   pageRef = "#"
-  weight = 80
-
-[[main]]
-  name = "Dự Án"
-  pageRef = "#"
-  weight = 80
+  weight = 83
 
 [[main]]
   name = "Xưởng"
